@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - QUIKIE Study Guide</title>
+    <link rel="stylesheet" href="index.css">
+    <style>
+        /* Minimal layout overrides for login */
+        .auth-wrapper {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+            padding: 2rem;
+        }
+        
+        /* 3D Flip Container */
+        .auth-flip-container {
+            perspective: 1000px;
+            width: 100%;
+            max-width: 420px;
+            z-index: 10;
+        }
+        .auth-flipper {
+            width: 100%;
+            position: relative;
+            transition: transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            transform-style: preserve-3d;
+        }
+        .auth-flip-container.flipped .auth-flipper {
+            transform: rotateY(180deg);
+        }
+        
+        .auth-front, .auth-back {
+            width: 100%;
+            backface-visibility: hidden;
+            background: rgba(20, 20, 30, 0.65);
+            backdrop-filter: blur(24px) saturate(180%);
+            -webkit-backdrop-filter: blur(24px) saturate(180%);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 24px;
+            padding: 3rem 2.5rem;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.05);
+            transform-style: preserve-3d;
+        }
+        
+        .auth-back {
+            position: absolute;
+            top: 0;
+            left: 0;
+            transform: rotateY(180deg);
+        }
+        
+        /* Holographic Content */
+        .auth-header {
+            text-align: center;
+            margin-bottom: 2rem;
+            transform: translateZ(40px);
+        }
+        .auth-header .brand-text { font-size: 2.5rem; }
+        
+        .form-group { margin-bottom: 1.5rem; transform: translateZ(30px); }
+        .form-label { display: block; font-size: 0.85rem; font-weight: 600; color: var(--t2); margin-bottom: 8px; }
+        
+        .form-control {
+            width: 100%; background: rgba(0, 0, 0, 0.2); border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px; padding: 14px 16px; color: #fff; font-family: inherit; font-size: 1rem;
+            transition: all 0.3s ease;
+        }
+        .form-control:focus { outline: none; border-color: var(--v1); box-shadow: 0 0 0 4px rgba(124, 109, 250, 0.1); background: rgba(0, 0, 0, 0.4); }
+        
+        .btn-auth {
+            width: 100%; background: linear-gradient(135deg, var(--v1), #9a8cff); color: #fff;
+            border: none; border-radius: 12px; padding: 14px; font-size: 1rem; font-weight: 600;
+            cursor: none; margin-top: 1rem; transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(124, 109, 250, 0.3);
+            transform: translateZ(50px);
+        }
+        .btn-auth:hover { box-shadow: 0 8px 25px rgba(124, 109, 250, 0.5); }
+        
+        .switch-mode {
+            text-align: center; margin-top: 1.5rem; font-size: 0.9rem; color: var(--t2);
+            transform: translateZ(20px); cursor: none;
+        }
+        .switch-mode span { color: var(--v1); font-weight: 600; text-decoration: underline; }
+        .switch-mode span:hover { color: #fff; }
+        
+        .error-msg {
+            color: #ff6b6b; font-size: 0.85rem; text-align: center; margin-bottom: 1rem; display: none;
+            background: rgba(255, 107, 107, 0.1); padding: 10px; border-radius: 8px; border: 1px solid rgba(255, 107, 107, 0.2);
+            transform: translateZ(30px);
+        }
+    </style>
+</head>
+<body data-page="login">
+
+    <div class="auth-wrapper">
+        <!-- Liquid Orbs Background -->
+        <div class="orb orb1"></div>
+        <div class="orb orb2"></div>
+
+        <div class="auth-flip-container fade-in-up visible">
+            <div class="auth-flipper" id="flipper">
+                
+                <!-- FRONT: LOGIN -->
+                <div class="auth-front">
+                    <div class="auth-header">
+                        <span class="brand-text">QUIKIE</span><br>
+                        <span class="brand-sub">by Ankit</span>
+                    </div>
+                    
+                    <div id="login-error" class="error-msg"></div>
+
+                    <form id="login-form">
+                        <div class="form-group">
+                            <label class="form-label">Username</label>
+                            <input type="text" id="login-username" class="form-control" placeholder="Enter your username" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label">Password</label>
+                            <input type="password" id="login-password" class="form-control" placeholder="Enter your password" required>
+                        </div>
+                        <button type="submit" class="btn-auth magnet-btn">Sign In</button>
+                        
+                        <div class="switch-mode" id="to-register">
+                            New here? <span>Create an account</span>
+                        </div>
+                    </form>
+                </div>
+
+                <!-- BACK: REGISTER -->
+                <div class="auth-back">
+                    <div class="auth-header">
+                        <span class="brand-text">Register</span><br>
+                        <span class="brand-sub">Join QUIKIE</span>
+                    </div>
+
+                    <div id="reg-error" class="error-msg"></div>
+
+                    <form id="register-form">
+                        <div class="form-group">
+                            <label class="form-label">Choose Username</label>
+                            <input type="text" id="reg-username" class="form-control" placeholder="e.g. ankit123" required minlength="3">
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label">Create Password</label>
+                            <input type="password" id="reg-password" class="form-control" placeholder="At least 6 characters" required minlength="6">
+                        </div>
+                        <button type="submit" class="btn-auth magnet-btn" style="background: linear-gradient(135deg, var(--v3), #ff9ebf);">Create Account</button>
+                        
+                        <div class="switch-mode" id="to-login">
+                            Already have an account? <span>Sign In</span>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="login.js"></script>
+</body>
+</html>

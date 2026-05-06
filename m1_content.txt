@@ -1,0 +1,218 @@
+--- PAGE 1 ---
+ENGL322 — History of the English Language
+MODULE I STUDY GUIDE · BA English (H/R) · UG Semester VI · Amity University Kolkata
+Exam: 1 hr · 15 marks · Q1 (5 marks, ~50 words) · Q2 (10 marks, ~300 words + diagram)
+MODULE I: IN THE BEGINNING (Weightage: 25%)
+Priority
+Marks
+What it means
+### HIGH
+10 marks (Q2)
+Needs diagram + full essay — practise drawing
+## MEDIUM
+5 marks (Q1)
+Short crisp note — know dates, examples, key terms
+# BACKGROUND
+Context only
+Understand — unlikely to be a standalone question
+1.1 Introduction to the English Language # Background
+English belongs to the West Germanic branch of the Indo-European language family. It is today spoken as
+a first or second language by over 1.5 billion people worldwide, making it the most widely used language in
+history. Yet English as we know it emerged only gradually over fifteen centuries of invasion, migration, and
+cultural contact.
+The study of how a language changes over time is called diachronic linguistics (from Greek dia =
+through, chronos = time). This course adopts a diachronic approach, tracing English from its Germanic
+roots through Old English, Middle English, Early Modern English, and into the contemporary global
+language it has become.
+I KEY NOTE
+DIACHRONIC: studying language change across time (contrast with SYNCHRONIC, which studies
+language at a single point in time). Your course is explicitly diachronic.
+1.2 Proto-Indo-European (PIE) Family of Languages ### HIGH
+# EXAM TIP: This is ALREADY asked in your exam paper as Q2 (10 marks). You MUST be able to draw
+the full family tree and discuss each major branch with at least one modern language example.
+What is Proto-Indo-European?
+Proto-Indo-European (PIE) is the reconstructed common ancestor of a large family of languages spoken
+across Europe, Iran, and the Indian subcontinent. No written records of PIE exist — linguists reconstructed
+it during the 19th century by comparing similarities across its daughter languages. Sir William Jones
+famously observed in 1786 that Sanskrit, Greek, and Latin showed such deep structural similarities that
+they must have sprung from a common source.
+PIE is estimated to have been spoken roughly between 4000 and 3000 BCE on the Pontic–Caspian
+steppe (modern Ukraine and southern Russia). As communities migrated westward into Europe and
+southward into Iran and India, the language gradually differentiated into distinct branches.
+Major Branches of the PIE Family
+1. Indo-Iranian
+
+--- PAGE 2 ---
+The largest branch by number of speakers. Divided into the Indic sub-branch (Old Indo-Aryan → Sanskrit
+→ Prakrits → Hindi, Urdu, Bengali, Punjabi, Marathi, Gujarati) and the Iranian sub-branch (Old Persian →
+Avestan → Modern Persian/Farsi, Kurdish, Pashto). Key ancient text: the Rigveda (Sanskrit).
+2. Hellenic (Greek)
+Contains only Greek, but Greek has one of the longest continuously recorded literary traditions. Ancient
+Greek (Homer, Plato) → Byzantine Greek → Modern Greek. Greek contributed enormously to English
+through Latin and directly during the Renaissance (philosophy, medicine, science terms).
+3. Italic (Romance)
+Latin is the parent of all Romance languages. Latin → Vulgar Latin → French, Spanish, Portuguese,
+Italian, Romanian. Latin (Classical and Ecclesiastical) poured into English in huge waves. French — a
+Romance language — is the single biggest external influence on English vocabulary.
+4. Germanic
+The branch to which English belongs. Divided into: (a) West Germanic — English, German, Dutch,
+Afrikaans, Frisian; (b) North Germanic — Swedish, Danish, Norwegian, Icelandic; (c) East Germanic —
+Gothic (extinct). English descends from the West Germanic dialects spoken by the Angles, Saxons, and
+Jutes.
+5. Celtic
+Languages of the pre-Roman inhabitants of Britain and Gaul. Divided into Goidelic (Irish Gaelic, Scottish
+Gaelic, Manx) and Brythonic (Welsh, Cornish, Breton). Despite early contact, Celtic left surprisingly few
+words in English — mainly place names and river names.
+6. Balto-Slavic
+Eastern branch dividing into Baltic (Lithuanian, Latvian) and Slavic (Russian, Polish, Czech, Serbian,
+Bulgarian). Lithuanian is considered extremely archaic and close to reconstructed PIE. These languages
+had minimal direct influence on English.
+7. Anatolian
+Spoken in ancient Asia Minor (modern Turkey). Hittite is the most well-known Anatolian language and the
+earliest attested IE language (c. 1700 BCE). All Anatolian languages are now extinct. Some scholars
+argue PIE originated in Anatolia rather than the steppe.
+8. Tocharian
+Extinct languages discovered in manuscripts from western China (Tarim Basin). Surprisingly, Tocharian is
+more closely related to western IE languages (Celtic, Italic) than to its geographical neighbours. All extinct.
+9. Albanian & Armenian
+Each forms its own independent branch with no close living relatives. Albanian (spoken in Albania and
+Kosovo) and Armenian (spoken in Armenia) are each sole survivors of their respective branches.
+The Germanic Subdivision — Most Important for English
+Sub-branch
+Period
+Languages
+Relation to English
+West Germanic
+500 BCE onward
+English, German, Dutch, Frisian
+Direct ancestor of English
+North Germanic
+500 BCE onward
+Old Norse → Swedish, Danish, Norwegian, Icelandic
+Major influence (Viking Age)
+East Germanic
+c. 200–700 CE
+Gothic, Vandal, Burgundian
+Extinct; no direct influence
+# EXAM TIP — How to Answer Q2 on the PIE Family Tree
+
+--- PAGE 3 ---
+Your answer must include: (a) a clearly labelled tree diagram showing PIE at the root, major branches as
+intermediate nodes, and 2–3 modern languages under each; (b) a discussion paragraph on the origin and
+spread of PIE (steppe hypothesis); (c) a paragraph on the Germanic branch specifically; (d) brief notes on
+the contemporary world — Hindi, French, Spanish, Russian are all PIE languages. Five most
+mark-worthy branches: Indo-Iranian (Hindi/Sanskrit), Italic (Latin/French), Germanic (English), Hellenic
+(Greek), Balto-Slavic (Russian).
+1.3 Language Situation in Britain Before 450 CE — The Celts ## MEDIUM
+# EXAM TIP: Q1 in your actual exam paper asks about Celtic influence on English. This is a confirmed
+5-mark topic. Write a crisp 50-word answer covering: place names, river names, and WHY Celtic influence
+was limited.
+The Celts were the pre-Roman inhabitants of Britain, arriving in two main waves around 800–600 BCE and
+400 BCE. Celtic speakers occupied the entire island before Julius Caesar's expeditionary raids (55–54
+BCE) and the full Roman conquest under Emperor Claudius in 43 CE. The Celtic languages spoken in
+Britain were Brythonic Celtic — ancestor of modern Welsh, Cornish, and Breton. Goidelic Celtic
+(ancestor of Irish and Scottish Gaelic) was spoken in Ireland.
+Celtic Influence on English
+Despite the Celts being the indigenous population of Britain, their linguistic influence on English is
+surprisingly minimal. Scholars estimate fewer than twenty commonly used words in Modern English can be
+traced directly to Celtic. The main areas of Celtic influence are:
+Place names: The most significant Celtic legacy. Many British place names preserve Celtic roots:
+London (from Celtic Londinium/Llyn-don), York (Eboracum), Kent, Devon, Cornwall, Dover.
+River and geographical names: River names are extremely conservative linguistically. Examples:
+Thames (from Celtic Tamesa = 'dark river'), Avon (= 'river'), Exe, Esk, Axe, Usk, Wye, Severn, Trent.
+The Celtic word 'avon' simply means river — hence River Avon literally means 'River River.'
+A few common words: Brock (badger), crag, bin, tor (high rocky peak), loch/lough (lake), bannock (a
+type of bread), dun (fort — appears in Doncaster, Dundee).
+Grammatical influence (disputed): Some linguists argue certain syntactic features of English — like
+the progressive aspect ('I am doing') — may have Celtic origins, as this feature is far more common in
+Celtic languages than other Germanic ones. This remains debated.
+Why Was Celtic Influence So Limited?
+• The Anglo-Saxon invaders (from 449 CE onward) pushed the Celts westward and northward into
+Wales, Cornwall, and Scotland — little sustained, equal social contact.
+• The Celts were politically subordinated — conquered peoples rarely impose their language on
+conquerors.
+• Celtic-speaking communities became geographically isolated in the 'Celtic fringe' (Wales, Cornwall,
+Scotland, Ireland).
+• English already had Germanic vocabulary for most everyday concepts, so there was no 'lexical gap'
+that Celtic words needed to fill.
+! MODEL 50-WORD ANSWER FOR Q1:
+The Celtic languages spoken in pre-Roman and Roman Britain left surprisingly little imprint on English.
+Their primary legacy lies in place names (London, Kent, Devon) and river names (Thames, Avon, Exe).
+Celtic had minimal influence on grammar or vocabulary because Anglo-Saxon invaders pushed Celtic
+speakers into isolated western and northern regions, reducing sustained linguistic contact.
+
+--- PAGE 4 ---
+1.4 Romanisation of Britain ## MEDIUM
+Rome conquered Britain in 43 CE under Emperor Claudius. The Romans occupied most of England and
+Wales for nearly 400 years (43–410 CE). During this period, Latin became the language of administration,
+the army, commerce, and urban life. Roman Britain was essentially a bilingual society — Latin above,
+Celtic below.
+Latin's Impact — Place Names
+Latin words survive mainly in place names rather than general English vocabulary. The suffix
+-chester/-caster/-cester (from Latin castra = military camp) appears in: Winchester, Manchester,
+Lancaster, Leicester, Colchester, Gloucester. The suffix -coln (from Latin colonia = settlement) appears in:
+Lincoln.
+The Roman Withdrawal (410 CE)
+In 410 CE, Emperor Honorius withdrew legions from Britain to defend Rome against the Visigoths. This left
+Britain vulnerable, and within decades Anglo-Saxon tribes from the European mainland began raiding and
+settling. Roman Latin's major contribution came indirectly — through the Church (second wave of Latin)
+and through French (which descended from Latin).
+1.5 Continental Latin Borrowings (Before 450 CE) ## MEDIUM
+Before the Anglo-Saxons ever set foot in Britain, their Germanic tribes on the continent were already in
+contact with Rome through trade, military service, and cultural exchange. Words borrowed at this stage
+are called Continental Latin borrowings — they entered the Germanic dialects that would eventually
+become English, and so they feel deeply native.
+! EXAMPLES — Continental Latin borrowings in Modern English:
+wine (Latin vinum), cheese (caseus), street (strata via = paved road), wall (vallum), pound (pondus =
+weight), mile (mille passus = 1000 paces), butter (butyrum), cup (cupa), dish (discus), kitchen (coquina),
+school (schola via Greek), bishop (episcopus via Greek).
+These borrowings show that even before arriving in Britain, the Germanic peoples who became the
+English were absorbing Roman material culture and its vocabulary. Words for new concepts (paved roads,
+wine, coinage) were borrowed wholesale.
+KEY DIAGRAM FOR MODULE I — Draw from Memory
+Diagram 1: Proto-Indo-European Family Tree — Draw a vertical tree. At the top: PIE (c. 4000–3000
+BCE, Pontic steppe). Below it, draw branches for: Indo-Iranian, Hellenic, Italic, Germanic, Celtic,
+Balto-Slavic, Anatolian, Tocharian, Albanian/Armenian. Under Germanic, subdivide into West (English,
+German, Dutch), North (Swedish, Danish, Norwegian), East (Gothic — extinct). Show English descending
+from West Germanic.
+Module I — Critical Dates & Key Terms
+Date
+Event
+Significance
+c. 4000–3000 BCE
+PIE spoken
+Common ancestor of English, Hindi, French, Russian, etc.
+800–400 BCE
+Celtic tribes in Britain
+Pre-Roman British population — left place/river names
+55–54 BCE
+Julius Caesar raids Britain
+First Roman contact; no permanent settlement
+
+--- PAGE 5 ---
+43 CE
+Roman conquest (Claudius)
+Latin becomes language of administration; lasts 400 years
+410 CE
+Roman withdrawal
+Britain vulnerable; Anglo-Saxon settlement begins
+449 CE
+Anglo-Saxon migration begins
+Start of Old English period
+1786 CE
+Sir William Jones
+Observed Sanskrit/Greek/Latin share a common ancestor
+Diachronic: Studying language change across time (the approach of this entire course). Contrast with
+synchronic.
+Proto-Indo-European (PIE): The reconstructed common ancestor language of the Indo-European
+family, spoken c. 4000–3000 BCE on the Pontic steppe.
+Rhoticity / Steppe Hypothesis: Theory that PIE originated on the Pontic–Caspian steppe (modern
+Ukraine/Russia) and spread through migration.
+Celtic: Branch of IE languages — Goidelic (Irish, Scottish Gaelic, Manx) and Brythonic (Welsh,
+Cornish, Breton). Pre-Roman languages of Britain.
+West Germanic: The sub-branch of Germanic from which English directly descends. Includes
+German, Dutch, Frisian.
+Continental Latin Borrowings: Latin words absorbed by Germanic tribes on the European continent
+before they migrated to Britain.
+ENGL322 Module I Study Guide · Amity University Kolkata · Semester VI
+

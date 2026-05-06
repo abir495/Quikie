@@ -1,0 +1,1018 @@
+--- PAGE 1 ---
+ENGL322
+ 
+ History of the
+English Language
+ Complete Study Guide — All 4 Modules
+ 
+ BA English (H/R) · UG Semester VI · Amity University Kolkata
+ 
+ ■ Module I: In the Beginning (Celtic, Roman, PIE family)
+ 
+■ Module II: English in British Isles 450–1500 (OE, ME, Norse, French)
+■ Module III: English 1500–Present (Standardisation, Inkhorn, Dictionaries)
+■ Module IV: Island Tongue to World Language (Indian & American English)
+Exam Pattern: 1 hr · Max 15 marks · Q1 (5 marks, 50 words) + Q2 (10 marks, 300 words + diagram)
+
+
+--- PAGE 2 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 2
+How to Use This Guide
+Read this first — it explains the exam pattern and priority system
+Understanding Your Exam
+Your internal examination (ENGL322) is 1 hour long, carries 15 marks, and has exactly two questions. Q1
+is a short-answer question worth 5 marks requiring a response of about 50 words. Q2 is a long-answer
+question worth 10 marks requiring about 300 words plus a diagram. This means Q2 carries twice the
+weight — diagrams and conceptual explanations are critical. Every topic in this guide is tagged to help you
+prioritise.
+★  EXAM TIP
+Q1 (5 marks): Memorise one concise paragraph per topic — facts, dates, examples. Q2 (10 marks): Practise
+drawing all five key diagrams from memory and writing 250–300 word explanations around them.
+Priority Legend
+Priority
+Likely marks
+What it means
+★★★ HIGH
+10 marks (Q2)
+Needs diagram + full essay — practise drawing
+★★ MEDIUM
+5 marks (Q1)
+Short crisp note — know dates, examples, key terms
+★ BACKGROUND
+Context only
+Understand — unlikely to be a standalone question
+
+
+--- PAGE 3 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 3
+MODULE I   IN THE BEGINNING   (Weightage: 25%)
+1.1 Introduction to the English Language ★ Background
+English belongs to the West Germanic branch of the Indo-European language family. It is today spoken
+as a first or second language by over 1.5 billion people worldwide, making it the most widely used
+language in history. Yet English as we know it emerged only gradually over fifteen centuries of invasion,
+migration, and cultural contact.
+The study of how a language changes over time is called diachronic linguistics (from Greek dia =
+through, chronos = time). This course adopts a diachronic approach, tracing English from its Germanic
+roots through Old English, Middle English, Early Modern English, and into the contemporary global
+language it has become.
+■  KEY NOTE
+Key term — DIACHRONIC: studying language change across time (contrast with SYNCHRONIC, which studies
+language at a single point in time). Your course is explicitly diachronic.
+1.2 Proto-Indo-European (PIE) Family of Languages ★★★ HIGH
+★  EXAM TIP
+This is ALREADY asked in your exam paper as Q2 (10 marks). You MUST be able to draw the full family tree and
+discuss each major branch with at least one modern language example.
+What is Proto-Indo-European?
+Proto-Indo-European (PIE) is the reconstructed common ancestor of a large family of languages spoken
+across Europe, Iran, and the Indian subcontinent. No written records of PIE exist — linguists reconstructed
+it during the 19th century by comparing similarities across its daughter languages. Sir William Jones
+famously observed in 1786 that Sanskrit, Greek, and Latin showed such deep structural similarities that
+they must have sprung from a common source.
+PIE is estimated to have been spoken roughly between 4000 and 3000 BCE on the Pontic–Caspian
+steppe (modern Ukraine and southern Russia). As communities migrated westward into Europe and
+southward into Iran and India, the language gradually differentiated into distinct branches.
+Major Branches of the PIE Family
+The PIE family is divided into several major branches. Each branch gave rise to a group of related modern
+(and ancient) languages. Below are the nine principal branches you must know:
+
+
+--- PAGE 4 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 4
+1. Indo-Iranian
+The largest branch by number of speakers. Divided into the Indic sub-branch (Old Indo-Aryan → Sanskrit
+→ Prakrits → Hindi, Urdu, Bengali, Punjabi, Marathi, Gujarati) and the Iranian sub-branch (Old Persian →
+Avestan → Modern Persian/Farsi, Kurdish, Pashto). Key ancient text: the Rigveda (Sanskrit).
+2. Hellenic (Greek)
+Contains only Greek, but Greek has one of the longest continuously recorded literary traditions. Ancient
+Greek (Homer, Plato) → Byzantine Greek → Modern Greek. Greek contributed enormously to English
+through Latin and directly during the Renaissance (philosophy, medicine, science terms).
+3. Italic (Romance)
+Latin is the parent of all Romance languages. Latin → Vulgar Latin → French, Spanish, Portuguese,
+Italian, Romanian. Latin itself (Classical and Ecclesiastical) poured into English in huge waves during
+Roman occupation, Christian conversion, and Renaissance scholarship. French — a Romance language
+— is the single biggest external influence on English vocabulary.
+4. Germanic
+The branch to which English belongs. Divided into: (a) West Germanic — English, German, Dutch,
+Afrikaans, Frisian; (b) North Germanic — Swedish, Danish, Norwegian, Icelandic (Old Norse); (c) East
+Germanic — Gothic (extinct). English descends from the West Germanic dialects spoken by the Angles,
+Saxons, and Jutes.
+5. Celtic
+Languages of the pre-Roman inhabitants of Britain and Gaul. Divided into Goidelic (Irish Gaelic, Scottish
+Gaelic, Manx) and Brythonic (Welsh, Cornish, Breton). Celtic was spoken in Britain before Latin and
+Anglo-Saxon arrived. Despite early contact, Celtic left surprisingly few words in English — mainly place
+names and river names.
+6. Balto-Slavic
+Eastern branch dividing into Baltic (Lithuanian, Latvian) and Slavic (Russian, Polish, Czech, Serbian,
+Bulgarian). Lithuanian is considered extremely archaic and close to reconstructed PIE. These languages
+had minimal direct influence on English.
+7. Anatolian
+Spoken in ancient Asia Minor (modern Turkey). Hittite is the most well-known Anatolian language and the
+earliest attested IE language (c. 1700 BCE). All Anatolian languages are now extinct. Some scholars
+argue PIE originated in Anatolia rather than the steppe.
+8. Tocharian
+Extinct languages discovered in manuscripts from western China (Tarim Basin). Surprising find because
+Tocharian is more closely related to western IE languages (Celtic, Italic) than to its geographical
+neighbours. All extinct.
+
+
+--- PAGE 5 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 5
+9. Albanian & Armenian
+Each forms its own independent branch with no close living relatives. Albanian (spoken in Albania and
+Kosovo) and Armenian (spoken in Armenia) are each sole survivors of their respective branches.
+The Germanic Subdivision — Most Important for English
+Within Germanic, the three sub-branches are:
+Sub-branch
+Period
+Languages
+Relation to English
+West Germanic
+500 BCE onward
+English, German, Dutch, Frisian
+Direct ancestor of English
+North Germanic
+500 BCE onward
+Old Norse → Swedish, Danish, Norwegian, Icelandic
+Major influence (Viking Age)
+East Germanic
+c. 200–700 CE
+Gothic, Vandal, Burgundian
+Extinct; no direct influence
+How to Answer Q2 on the PIE Family Tree
+Your answer must include: (a) a clearly labelled tree diagram showing PIE at the root, the major branches
+as intermediate nodes, and at least 2–3 modern languages under each major branch; (b) a discussion
+paragraph on the origin and spread of PIE (steppe hypothesis); (c) a paragraph on the Germanic branch
+specifically, since that is where English belongs; (d) brief notes on how this relates to the contemporary
+world — Hindi, French, Spanish, Russian are all PIE languages, meaning English shares distant cousins
+with half the world's major tongues.
+★  EXAM TIP
+DRAW THIS DIAGRAM FROM MEMORY: PIE (root) → 9 branches → modern languages under each. The
+examiner will specifically check: Indo-Iranian (Hindi/Sanskrit), Italic (Latin/French), Germanic (English), Hellenic
+(Greek), Balto-Slavic (Russian). These five are the most mark-worthy.
+
+
+--- PAGE 6 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 6
+1.3 Language Situation in Britain Before 450 CE — The Celts ★★ MEDIUM
+★  EXAM TIP
+Q1 in your actual exam paper asks about Celtic influence on English. This is a confirmed 5-mark topic. Write a crisp
+50-word answer covering: place names, river names, and WHY Celtic influence was limited.
+Who Were the Celts?
+The Celts were the pre-Roman inhabitants of Britain. They arrived in two main waves around 800–600
+BCE and 400 BCE. Celtic speakers occupied the entire island of Britain before Julius Caesar's
+expeditionary raids (55–54 BCE) and before the full Roman conquest under Emperor Claudius in 43 CE.
+The Celtic languages spoken in Britain were Brythonic Celtic — the ancestor of modern Welsh, Cornish,
+and Breton. Goidelic Celtic (the ancestor of Irish and Scottish Gaelic) was spoken in Ireland.
+Celtic Influence on English
+Despite the Celts being the indigenous population of Britain, their linguistic influence on English is
+surprisingly and famously minimal. Scholars estimate fewer than twenty commonly used words in Modern
+English can be traced directly to Celtic. This is one of the most discussed puzzles in the history of English.
+The main areas of Celtic influence are:
+● Place names
+The most significant Celtic legacy. Many British place names preserve Celtic roots: London (from Celtic
+Londinium/Llyn-don), York (Eboracum), Kent, Devon, Cornwall, Dover.
+● River and geographical names
+River names are extremely conservative linguistically — they often survive conquest. Examples: Thames
+(from Celtic Tamesa = 'dark river'), Avon (= 'river'), Exe, Esk, Axe, Usk, Wye, Severn, Trent. The Celtic
+word 'avon' simply means river — hence River Avon literally means 'River River.'
+● A few common words
+Brock (badger), crag, bin, tor (high rocky peak), loch/lough (lake in Scottish/Irish English), bannock (a type
+of bread). Some scholars include 'dun' (fort) which appears in place names like Doncaster and Dundee.
+● Grammatical influence (disputed)
+Some linguists (especially Markku Filppula and John Hines) argue that certain syntactic features of
+English — like the progressive aspect ('I am doing') — may have Celtic origins, as this feature is far more
+common in Celtic languages than in other Germanic ones. This remains debated.
+Why Was Celtic Influence So Limited?
+This is the key analytical question. Several reasons are proposed:
+ The Anglo-Saxon invaders (from 449 CE onward) pushed the Celts westward and northward into
+Wales, Cornwall, and Scotland. There was little sustained, equal social contact between the groups.
+ The Celts were politically subordinated — conquered peoples rarely impose their language on
+conquerors.
+ Celtic-speaking communities became geographically isolated in the 'Celtic fringe' (Wales, Cornwall,
+Scotland, Ireland), so cross-linguistic contact diminished rapidly.
+
+
+--- PAGE 7 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 7
+ English already had Germanic vocabulary for most everyday concepts, so there was no 'lexical gap'
+that Celtic words needed to fill.
+✦  EXAMPLES
+Model 50-word answer for Q1: The Celtic languages spoken in pre-Roman and Roman Britain left surprisingly little
+imprint on English. Their primary legacy lies in place names (London, Kent, Devon) and river names (Thames,
+Avon, Exe). Celtic had minimal influence on grammar or vocabulary because Anglo-Saxon invaders pushed Celtic
+speakers into isolated western and northern regions, reducing sustained linguistic contact.
+1.4 Romanisation of Britain ★★ MEDIUM
+Rome conquered Britain in 43 CE under Emperor Claudius. The Romans occupied most of England and
+Wales for nearly 400 years (43–410 CE). During this period, Latin became the language of administration,
+the army, commerce, and urban life. However, Roman Britain was essentially a bilingual society — Latin
+above, Celtic below.
+Latin's Impact During Roman Occupation
+Latin words that entered British speech during this period survive in place names rather than in the general
+English vocabulary. The suffix -chester / -caster / -cester (from Latin castra = military camp) appears in
+Winchester, Manchester, Lancaster, Leicester, Colchester, Gloucester. The suffix -coln (from Latin colonia
+= settlement) appears in Lincoln.
+The Roman Withdrawal (410 CE)
+In 410 CE, the Roman Emperor Honorius withdrew legions from Britain to defend Rome against the
+Visigoths. This left Britain vulnerable, and within decades Anglo-Saxon tribes from the European mainland
+began raiding and settling. Roman Latin had a limited direct legacy in spoken English — its major
+contribution came indirectly through the Church (second wave of Latin) and through French (which
+descended from Latin).
+1.5 Continental Latin Borrowings (Before 450 CE) ★★ MEDIUM
+Before the Anglo-Saxons ever set foot in Britain, their Germanic tribes on the continent were already in
+contact with Rome through trade, military service, and cultural exchange. Words borrowed at this stage
+are called Continental Latin borrowings — they entered the Germanic dialects that would eventually
+become English, and so they feel deeply native.
+✦  EXAMPLES
+Continental Latin borrowings in Modern English: wine (Latin vinum), cheese (caseus), street (strata via = paved
+road), wall (vallum), pound (pondus = weight), mile (mille passus = 1000 paces), butter (butyrum), cup (cupa), dish
+(discus), kitchen (coquina), school (schola via Greek), bishop (episcopus via Greek).
+These borrowings show that even before arriving in Britain, the Germanic peoples who became the
+English were absorbing Roman material culture and its vocabulary. Words for new concepts (paved roads,
+wine, coinage) were borrowed wholesale.
+
+
+--- PAGE 8 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 8
+MODULE II   ENGLISH IN THE BRITISH ISLES 450–1500   (Weightage: 25%)
+2.1 Language Situation in Britain 450–1500 CE ★ Background
+This period is the most linguistically turbulent in English history. It saw three distinct waves of external
+influence — Scandinavian, then Norman French — layered onto the original Anglo-Saxon base, while
+Latin continued as the language of the Church throughout. By 1500 CE, English had transformed almost
+beyond recognition from the Old English of 450 CE.
+2.2 Foreign Influences on Old English ★★★ HIGH
+★  EXAM TIP
+Examiner favourite for both Q1 and Q2. Know all three waves: Celtic (minimal), Latin (two waves: Roman +
+Christian), and Scandinavian (Viking Age). Give word examples for each.
+Wave 1 — Celtic Influence on Old English
+As discussed in Module I, Celtic influence on Old English was minimal. The Anglo-Saxon invaders
+displaced Celtic speakers rather than absorbing them. Place names and a handful of common words
+(brock, crag, loch) are the main legacy. Celtic influence on Old English grammar was effectively zero.
+Wave 2 — Latin Influence (Two Sub-Waves)
+Latin influenced Old English in two distinct historical moments, and it is important to distinguish them:
+(a) Continental Latin / Roman Period Borrowings
+As discussed in 1.5, these entered before the Anglo-Saxons reached Britain. Words for material culture:
+wine, cheese, street, wall, cup, dish, mile, pound.
+(b) Christian/Ecclesiastical Latin (6th–10th centuries)
+In 597 CE, Pope Gregory the Great sent St Augustine of Canterbury to convert the Anglo-Saxons to
+Christianity. With Christianity came an enormous wave of Latin vocabulary — the language of the Church,
+learning, and manuscripts. This is sometimes called the second wave of Latin into English.
+✦  EXAMPLES
+Ecclesiastical Latin borrowings: angel, candle, hymn, mass, monk, nun, priest, school, disciple, epistle, paradise,
+temple, font, altar, psalm, minister, pope, creed, martyr, deacon, apostle, pilgrim. Also educational terms: grammar,
+meter, verse.
+Some of these words entered through Greek and were then Latinised before reaching English — words
+like 'church' (Greek kyriakon), 'bishop' (Greek episkopos), and 'devil' (Greek diabolos). The Christian Latin
+wave represents a massive enrichment of the English lexicon, particularly in the domains of religion,
+learning, and administration.
+Wave 3 — Scandinavian / Old Norse Influence (Viking Age) ★★★ HIGH
+The Viking invasions began in 787 CE (first recorded raid on Lindisfarne, 793 CE) and continued for
+nearly three centuries. Danish and Norwegian Vikings first raided, then settled large parts of northern and
+
+
+--- PAGE 9 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 9
+eastern England — the area that came to be called the Danelaw (formally established by the Treaty of
+Wedmore, 878 CE, between King Alfred the Great and the Danish leader Guthrum).
+The Danelaw covered roughly the area north and east of a line from London to Chester. Within this
+territory, Old Norse and Old English coexisted and mixed intimately — the two languages were mutually
+intelligible enough that significant borrowing in both directions occurred.
+What Old Norse Gave English
+The Scandinavian contribution is remarkable because it affected not just vocabulary but core grammar —
+pronouns, prepositions, and common everyday words. This is unusual — grammatical elements are
+almost never borrowed between languages unless contact is extremely deep and prolonged.
+✦  EXAMPLES
+Old Norse borrowings — Pronouns: they, them, their (these replaced OE hie, him, hiera). Everyday words: sky, egg,
+cake, take, call, want, get, give, birth, husband, sister, window, wrong, ugly, happy, loose, low, flat, ill, weak. Verbs:
+die, ride (in the Norse sense), crawl, gasp, glitter, scare. Place names ending in -by (Grimsby, Derby, Whitby),
+-thorp (Scunthorpe), -toft (Lowestoft), -ness (Skegness).
+■  KEY NOTE
+The replacement of the Old English 3rd-person plural pronouns (hie/him/hiera) with Norse they/them/their is hugely
+significant — even the most basic function words were exchanged. This shows how deeply integrated Scandinavian
+settlers were in daily Anglo-Saxon life.
+2.3 Characteristics of Old English ★★★ HIGH
+★  EXAM TIP
+Very likely to appear as Q2 (diagram + long answer). Draw a mind-map with five branches: Compound Words,
+Strong Verbs, Word Order, Winchester Vocabulary, Stress Pattern.
+What is Old English?
+Old English (OE), also called Anglo-Saxon, was spoken from approximately 450 CE to 1100 CE. It
+descended from the West Germanic dialects of the Angles, Saxons, Jutes, and Frisians who migrated to
+Britain from the 5th century onward. OE looks almost like a foreign language to modern eyes — it has
+elaborate grammatical inflections, a different vocabulary, and different word order.
+The most famous Old English text is the epic poem Beowulf (composed between 8th–10th centuries).
+Other major texts include the Anglo-Saxon Chronicle and King Alfred's translations of Latin works.
+(a) Compound Words
+Old English was highly productive in creating compound words by joining two existing words to form a new
+concept. This is called compounding. OE poetry especially favoured kennings — poetic compounds
+used as metaphorical descriptors.
+
+
+--- PAGE 10 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 10
+✦  EXAMPLES
+Compounds: godspell (god + spell = good news → Gospel), woruldcyning (world-king), tungolcræft (star-craft =
+astronomy), heofenweard (heaven-guardian = God). Kennings in Beowulf: hronrad (whale-road = sea), beadoleoma
+(battle-light = sword), goldwine (gold-friend = generous lord).
+(b) Strong Verbs
+OE inherited from Germanic a system of strong verbs that changed their vowel in the past tense rather
+than adding an -ed ending. This is called ablaut or vowel gradation. Many modern English 'irregular verbs'
+are survivals of this OE strong verb system. There were seven classes of strong verbs in OE, each with a
+distinct ablaut pattern.
+✦  EXAMPLES
+Strong verbs surviving into Modern English: sing/sang/sung, ring/rang/rung, drive/drove/driven, write/wrote/written,
+speak/spoke/spoken, ride/rode/ridden, rise/rose/risen, break/broke/broken, freeze/froze/frozen, bind/bound/bound.
+What grammarians erroneously call 'irregular' verbs are in fact following very regular ablaut patterns from Old
+English — hence the course objective's statement about 'irregular' forms.
+(c) Word Order
+Modern English uses a fixed Subject-Verb-Object (SVO) order to convey grammatical relationships. Old
+English could vary its word order much more freely because it used inflectional endings (case endings)
+to show grammatical function — not position. OE had four cases: Nominative, Accusative, Genitive, and
+Dative, plus traces of an Instrumental case. In OE poetry and formal prose, verb-final (SOV) order was
+common, reflecting the Germanic heritage.
+As inflectional endings eroded (especially under Norse contact, which accelerated this process), English
+had to compensate by fixing word order. The shift to SVO is one of the most fundamental changes in the
+history of English grammar.
+(d) Winchester Vocabulary
+Winchester was the capital of the West Saxon kingdom and became the major centre of learning and
+manuscript production in Anglo-Saxon England, especially under King Alfred the Great (r. 871–899 CE).
+Alfred's ambitious programme of translating Latin works into English established a prestige variety of Old
+English — Late West Saxon — centred on Winchester. This variety became the written standard for OE,
+meaning that the OE texts we can read today primarily reflect the Winchester (West Saxon) dialect, not the
+Anglian or Kentish dialects.
+■  KEY NOTE
+Winchester Vocabulary = the standardised literary vocabulary of Late West Saxon OE, associated with King Alfred's
+court. It is not a separate dialect but a prestige written form. This matters because: the Norman Conquest of 1066
+destroyed Winchester's prestige, and the written standard had to be rebuilt — eventually in London English.
+
+
+--- PAGE 11 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 11
+(e) Stress Patterns
+In Old English, stress was placed on the root syllable — almost always the first syllable of a native word.
+This is the Germanic stress pattern inherited from PIE. Prefixes in OE could be stressed (when they
+modified nouns: ándswaru = answer) or unstressed (when they modified verbs: andswárian = to answer).
+This distinction between noun-stress and verb-stress survives in some Modern English pairs: PROtest
+(noun) vs proTEST (verb); REcord vs reCORD.
+
+
+--- PAGE 12 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 12
+2.4 Middle English (1066–1500) and the French Influence ★★★ HIGH
+★  EXAM TIP
+French influence after 1066 is another near-certain Q2 topic. Cover: Norman Conquest context, domains of French
+vocabulary (law, food, fashion, government), the social stratification (French = elite, English = common), and the
+eventual re-emergence of English.
+The Norman Conquest (1066 CE)
+On 14 October 1066, William the Conqueror (Duke of Normandy, France) defeated and killed King Harold
+II at the Battle of Hastings. This single event had more impact on the English language than any other in
+its history. The Norman invaders spoke a dialect of Old French (Anglo-Norman French), and they
+became the new ruling class of England — as nobles, clergy, lawyers, and administrators. For the next
+300 years, England was effectively trilingual:
+Language
+Used by whom
+Domains
+Anglo-Norman French
+Royalty, nobles, the Church hierarchy, courts
+Government, law, literature, religion
+Latin
+The Church, scholars, official documents
+Religion, scholarship, international correspondence
+Middle English
+The common people, peasants, tradesmen
+Everyday speech, agriculture, trade
+French Influence on Vocabulary — The Semantic Split
+The most striking evidence of Norman French influence is the famous semantic split between
+Anglo-Saxon words for animals and Norman French words for their meat. The Anglo-Saxon peasants who
+tended the animals used OE words; the Norman nobles who ate the cooked meat used French words.
+This split has survived to the present day:
+Animal (OE/AS word)
+Meat at table (OF word)
+ox / cow (OE: oxa/cu)
+beef (OF: boeuf)
+sheep (OE: sceap)
+mutton (OF: mouton)
+swine / pig (OE: swin)
+pork (OF: porc)
+calf (OE: cealf)
+veal (OF: veel)
+deer (OE: deor)
+venison (OF: venaison)
+chicken/hen (OE: henn)
+poultry (OF: poulet)
+Domains of French Borrowing
+● Government & administration
+government, parliament, council, crown, court, state, parliament, mayor, chancellor, minister,
+sovereign, nation, empire, reign, noble, baron, duke, countess
+
+
+--- PAGE 13 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 13
+● Law
+judge, jury, justice, crime, prison, defendant, plaintiff, verdict, attorney, pardon, felony, indict, legal,
+evidence, bail, accuse
+● Military
+army, navy, battle, war, soldier, sergeant, captain, lieutenant, garrison, castle, siege, enemy, peace,
+lance, assault
+● Religion
+saint, prayer, charity, mercy, miracle, abbey, chancel, sermon, piety, grace, devout, faith, divine
+● Food & cooking
+cuisine, sauce, boil, fry, roast, feast, supper, dinner, appetite, beef, pork, mutton, veal, venison, pastry,
+biscuit, cream, sugar, salad
+● Fashion & luxury
+fashion, garment, gown, robe, jewel, diamond, fur, lace, embroidery, perfume, beauty, colour
+● Art & culture
+art, music, dance, poem, romance, literature, culture, image, beauty, leisure, pleasure
+French Influence on Pronunciation and Structure
+Beyond vocabulary, French also affected English in subtler ways:
+ Pronunciation: French introduced sounds and sound combinations new to English, such as the [v]
+sound at the start of words (veal, vain, very — OE had no initial /v/), the [d■] sound (judge, gentle,
+giant from OF), and stress on the final syllable in many borrowed words (hotel, café, machine).
+ Spelling: French scribes introduced the spelling convention of for /kw/ (queen, instead of OE cwen),
+for /t■/ (church had been spelled cirice), and combinations.
+ Suffixes: Many French suffixes became productive in English: -tion (nation, action), -ment
+(government, movement), -ance/-ence (distance, evidence), -ity (dignity, nobility), -ous (famous,
+curious), -al (royal, legal).
+ Word order: French helped consolidate Subject-Verb-Object order by reinforcing the erosion of OE
+case endings.
+The Re-emergence of English
+By the mid-13th century, English began its comeback. Several events accelerated this:
+ In 1204, King John lost Normandy to the French king. Anglo-Norman nobles could no longer maintain
+estates in both England and France and had to choose — most chose England, gradually shifting to
+English.
+ The Black Death (1348–49) killed nearly a third of England's population, disproportionately affecting
+the Latin-educated clergy and French-speaking elite. English speakers filled administrative positions,
+raising the language's social status.
+ In 1362, the Statute of Pleading decreed that court proceedings be conducted in English (not French).
+In the same year, Parliament was opened in English for the first time.
+ Geoffrey Chaucer wrote The Canterbury Tales (c. 1387–1400) in the London dialect of Middle English
+— this literary prestige accelerated English's re-establishment as a written standard.
+
+
+--- PAGE 14 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 14
+MODULE III   ENGLISH LANGUAGE 1500 – PRESENT   (Weightage: 25%)
+3.1 Renaissance and the Resurgence of English ★★ MEDIUM
+The period 1500–1700 is called Early Modern English. It saw English transition from a language
+recovering from French domination into the vehicle of a world literary and scientific culture. Three major
+forces drove this transformation: the Renaissance, the Reformation, and the development of printing.
+Socio-Political Conditions for English's Resurgence
+The following conditions must be known for Q2-type conceptual answers:
+● The Tudor Monarchy (Henry VIII, Elizabeth I)
+Royal patronage of English literature and a strong centralised state helped English become the language
+of national identity. Henry VIII's break from Rome (1534) weakened Latin's ecclesiastical dominance.
+● The Reformation
+The Protestant Reformation (1517, Martin Luther; spreading to England under Henry VIII) challenged the
+authority of the Latin-speaking Catholic Church. Reformers emphasised reading the Bible in vernacular
+languages — this directly elevated English's status.
+● Nationalism and the rise of the nation-state
+In the 15th–16th centuries, European nations increasingly identified with their vernacular language as a
+symbol of nationhood. Writing in English became a patriotic act.
+● The decline of Latin as a universal language
+As nation-states consolidated, Latin's role as the sole language of learning, law, and science weakened.
+Scholars began writing in their native tongues.
+● Overseas expansion
+England's colonial and trading ventures from the 16th century onward spread English globally and brought
+new vocabulary from contact languages.
+3.2 Standardisation of English ★★★ HIGH
+★  EXAM TIP
+Standardisation is a major Q2 topic. Learn the four agents in sequence: Printing Press → Bible Translation →
+Spelling Reformation → Dictionaries → Grammar Books. Know key names: Caxton (1476), Tyndale (NT 1526),
+King James Bible (1611), Johnson (1755).
+(a) The Printing Press — William Caxton (1476)
+Johannes Gutenberg invented movable type printing in Europe around 1450. William Caxton introduced
+the printing press to England in 1476, setting it up at Westminster. This was arguably the single most
+important event for standardising English spelling and vocabulary.
+Before printing, manuscripts were copied by hand, and scribes freely varied spelling according to dialect. A
+single word might be spelled ten different ways in different manuscripts. Printing required choosing one
+
+
+--- PAGE 15 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 15
+spelling for each word and repeating it consistently across thousands of copies. The dialect chosen as the
+basis for printed English was essentially the London dialect (specifically the East Midlands dialect of the
+London area), which already had prestige as the language of the capital, the court, and commerce.
+✦  EXAMPLES
+Caxton's first dated printed book in English: The Dictes or Sayengis of the Philosophres (1477). He also printed
+Chaucer's Canterbury Tales (1478) and Malory's Morte d'Arthur (1485). Caxton's choices about spelling and
+vocabulary had enormous standardising power because his press produced hundreds of identical copies — dialect
+variation became increasingly visible as 'wrong.'
+(b) Spelling Reformation
+Printing fixed spelling, but the spelling it fixed was often inconsistent and did not reflect pronunciation.
+Throughout the 16th–17th centuries, spelling reformers argued for a more phonetically regular system.
+Key figures:
+ John Hart (1551, 1569): Argued strenuously for spelling to match pronunciation. He proposed a
+reformed alphabet.
+ Richard Mulcaster (1582): His work Elementarie argued that custom and tradition should govern
+spelling, not phonetic logic — a more conservative position that ultimately prevailed.
+ William Bullokar (1580): Created a reformed spelling system with extra symbols.
+Despite the reformers' efforts, English spelling was largely fixed by printers in the late 16th century,
+preserving many inconsistencies that persist today (knight, though, through, cough).
+(c) Inkhorn Terms ★★ MEDIUM
+DEFINITION  ■  Inkhorn Terms
+Overly learned, pedantic words borrowed directly from Latin or Greek, often unnecessarily, during the Renaissance.
+Called 'inkhorn' because they were products of the scholar's inkhorn (ink container) — words of the study, not of
+real life.
+Renaissance scholars and writers deliberately enriched English vocabulary by coining new words from
+Latin and Greek to fill gaps — especially for scientific, philosophical, and technical concepts. However, this
+practice was controversial. Critics (called purists) argued that English was being corrupted by
+unnecessary foreign words; defenders argued that English needed enrichment to become a vehicle for
+learning equal to Latin.
+The debate between Inkhorn controversy participants was essentially between linguistic nationalism
+(use English words or coin English-based words) and cosmopolitanism (borrow freely from Latin and
+Greek for precision).
+✦  EXAMPLES
+Inkhorn terms that survived: anachronism, education, exist, extol, frivolous, harass, illustrate, impede, mundane,
+necessary, spurious, temperature, vacuum. Inkhorn terms that were rejected (now archaic): adminiculation
+(assistance), deruncinate (to weed), fatiguate (to tire), illecebrous (alluring), obtestate (to call as witness),
+suppeditiate (to supply). Thomas Wilson's Arte of Rhetorique (1553) mocked inkhorn terms satirically.
+
+
+--- PAGE 16 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 16
+The ultimate outcome was compromise: many Latin/Greek borrowings stayed and enriched English (often
+giving us synonyms at different register levels: ask/inquire/interrogate, begin/commence/initiate,
+help/aid/assist). This is why English has such a vast vocabulary.
+(d) Bible Translations ★★ MEDIUM
+Bible translation into English was one of the most politically charged and culturally significant acts of the
+Renaissance-Reformation period. The Latin Bible (the Vulgate, translated by St Jerome c. 400 CE) was
+the Church's authoritative text. Translating it into English put scripture in the hands of ordinary people — a
+radical, dangerous act in the eyes of the Catholic establishment.
+John Wycliffe (c. 1382)
+The first complete translation of the Bible into English, made from the Latin Vulgate. Produced by Wycliffe
+and his followers (the Lollards). Wycliffe believed every Christian should be able to read the Bible. His
+translation was handwritten (pre-printing) and declared heretical. After his death, his remains were
+exhumed and burned.
+William Tyndale (NT: 1526; Pentateuch: 1530)
+Tyndale's translation of the New Testament from the original Greek was printed — making it the first
+printed English NT. He was executed for heresy in 1536. His prose style (simple, rhythmic, vernacular)
+profoundly shaped subsequent English Bible translation and, through it, English literary prose.
+The Great Bible (1539)
+The first authorised English Bible, commissioned by Henry VIII after the Reformation. Based largely on
+Tyndale's and Coverdale's translations. Required to be placed in every church.
+The Geneva Bible (1560)
+Produced by Protestant exiles in Geneva. Included annotations (margin notes), was the first Bible to divide
+text into numbered verses, and was the Bible used by Shakespeare and the Pilgrim Fathers. Very
+influential on Elizabethan English.
+The King James Bible (KJB) (1611)
+Commissioned by King James I, translated by a committee of 54 scholars. Widely considered the greatest
+work of English prose — its dignified, rhythmic style shaped the English language for centuries. Phrases
+from the KJB are embedded in everyday English: 'the skin of my teeth', 'a thorn in the flesh', 'the apple of
+his eye', 'feet of clay', 'the writing on the wall'.
+(e) Publication of Dictionaries ★★ MEDIUM
+A dictionary is both a product of standardisation and an agent of further standardisation — it fixes spelling,
+meaning, and usage. The history of English dictionaries moves from wordlists to comprehensive
+authoritative works:
+Year
+Work
+Significance
+1604
+Robert Cawdrey — Table Alphabeticall
+First English dictionary. Only 2,543 'hard words' explained for 'ladies and ignorant people.'
+1623
+Henry Cockeram — English Dictionarie
+First work to use the word 'dictionary' in its title.
+1656
+Thomas Blount — Glossographia
+More comprehensive; gave etymologies of words.
+1755
+Samuel Johnson — A Dictionary of the English Language
+The landmark work. 40,000 words, literary quotations to illustrate usage, witty definitions. Dominant standard reference for nearly a century.
+
+
+--- PAGE 17 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 17
+1884–1928
+The Oxford English Dictionary (OED)
+The definitive historical dictionary of English. Shows every word's earliest recorded use and traces meaning changes. James Murray's great project.
+1806/1828
+Noah Webster — American Dictionary
+Standardised American spellings (color/colour, center/centre), establishing American English as distinct from British.
+(f) Foreign Influences on Modern English ★★ MEDIUM
+Modern English continued to borrow from a wide range of languages as England's global reach expanded:
+● Latin (3rd wave — Renaissance onward)
+Scientific and academic vocabulary: anatomy, agenda, alibi, animal, annual, area, circus, crisis, data,
+exit, formula, genius, habitat, index, maximum, minimum, nucleus, radius, referendum, species,
+stimulus, virus.
+● Greek
+Philosophy, mathematics, medicine, science: atom, chaos, chronos, democracy, ecology, epidemic,
+geography, hypothesis, logic, mathematics, metaphor, mythology, philosophy, physics, rhetoric,
+skeleton, symphony, synthesis, telescope, theology.
+● French (ongoing)
+French borrowing never stopped: café, ballet, buffet, camouflage, croissant, début, élite, entrepreneur,
+étiquette, garage, genre, guillotine, liaison, mirage, naive, plateau, renaissance, résumé, rouge,
+silhouette, souvenir.
+● Indian languages
+From contact with the Indian subcontinent: bungalow (Hindi bangla), jungle (Hindi jangal), shampoo
+(Hindi champo = press/knead), pyjamas (Hindi pajama), loot (Hindi lut), thug (Hindi thag), dinghy (Hindi
+dingi), khaki (Urdu khaki = dusty), pundit (Sanskrit pandita), yoga (Sanskrit).
+● Arabic / Persian
+Through trade and scholarship: algebra, algorithm (from Al-Khwarizmi's name), alcohol, almanac,
+assassin, candy, chemistry, cipher, cotton, hazard, magazine, mattress, orange, saffron, sofa, sugar,
+zero, admiral, alchemy.
+● Dutch and Low German
+Through maritime and trade contact: boss, yacht, cookie, cruise, easel, freight, leak, skipper, spool,
+trek, landscape, roster, smuggle, brandy, pickle.
+● Other colonial languages
+Safari (Swahili), canoe, hurricane, potato, tobacco, hammock (Carib/Arawak via Spanish), chocolate,
+avocado, tomato (Nahuatl via Spanish), parka, kayak (Inuit).
+
+
+--- PAGE 18 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 18
+MODULE IV   FROM ISLAND TONGUE TO WORLD LANGUAGE   (Weightage: 25%)
+4.1 English in the Contemporary World ★★★ HIGH
+English today is the world's foremost global language — used in international diplomacy, science,
+technology, aviation, popular culture, and the internet. Understanding how this came about and what it
+means for the language itself is the concern of Module IV.
+How English Became a World Language
+ British colonialism (17th–20th centuries) spread English to North America, Australia, New Zealand,
+South Asia, Africa, and the Caribbean.
+ The Industrial Revolution (18th–19th centuries) gave Britain economic power; English became the
+language of trade and industry.
+ American economic and cultural dominance in the 20th century — especially after World War II —
+further entrenched English globally through Hollywood, popular music, and later the internet.
+ English became the primary language of scientific publication: over 80% of research papers globally
+are now published in English.
+ The internet solidified English's position: a disproportionate share of online content is in English.
+Kachru's Three Circles of English ★★★ HIGH
+★  EXAM TIP
+Kachru's model is the most important diagram for Module IV. Practise drawing three concentric circles with correct
+country examples for each. This is a very likely Q2 diagram question.
+The most influential model for understanding the global spread of English is Braj Kachru's Three Circles
+Model (1985):
+Inner Circle
+Countries where English is a native language — spoken as L1 (first language) by the majority population.
+These countries set the 'norms' of English. Examples: UK, USA, Canada, Australia, New Zealand, Ireland.
+Outer Circle
+Countries where English has been institutionalised as an important second language (L2) — often a
+colonial legacy. English has official or semi-official status. Examples: India, Nigeria, Pakistan, Singapore,
+Bangladesh, Ghana, Kenya, Malaysia, Philippines. India has the largest number of English speakers in the
+outer circle.
+Expanding Circle
+Countries where English is learned as a foreign language (EFL), without any colonial history or official
+status. The use of English is growing but it has no special status. Examples: China, Japan, South Korea,
+Brazil, Russia, Germany, Indonesia, Egypt, Saudi Arabia.
+
+
+--- PAGE 19 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 19
+■  KEY NOTE
+The Three Circles model is important because it challenges the idea that only 'Inner Circle' English (British or
+American) is 'correct.' Outer Circle varieties (like Indian English) have their own internal norms and serve important
+communicative functions in multilingual societies. This connects to the concept of World Englishes.
+4.2 Characteristics of Indian English ★★ MEDIUM
+Indian English (IndE) is the variety of English used in India — a country where English has been spoken
+for over 350 years (since the East India Company's establishment) and where it has developed distinct
+phonological, lexical, and grammatical features. India has no single mother tongue — with 22 scheduled
+languages and hundreds of dialects, English functions as a crucial link language.
+Phonological Characteristics
+ Retroflex consonants: Indian language speakers often pronounce /t/ and /d/ as retroflex sounds
+(tongue curled back to palate), giving IndE its characteristic accent. So 'water' sounds like 'waTer' with
+a retroflex T.
+ No distinction between /v/ and /w/: Many Indian speakers pronounce both as a labio-dental
+approximant (somewhere between the two), so 'vine' and 'wine' may sound similar.
+ Syllable-timed rather than stress-timed: British English is stress-timed (stressed syllables come at
+roughly regular intervals). Indian English is often syllable-timed (each syllable gets roughly equal time),
+giving it a more 'staccato' rhythm.
+ Aspiration differences: The aspirated/unaspirated distinction for stops differs from British norms.
+ Monophthongs for British diphthongs: IndE speakers may pronounce 'late' as /let/ rather than /le■t/.
+Grammatical Characteristics
+ Tag question: 'isn't it?' used as a universal tag regardless of the verb ('She came, isn't it?' instead of
+'She came, didn't she?'). Also 'no?' as a tag.
+ Progressive aspect overuse: Using the present progressive for stative verbs: 'I am understanding the
+problem' instead of 'I understand the problem.'
+ Reduplication for emphasis: 'Do it now only,' 'He is always telling only.' The use of 'only' and 'itself' as
+emphasizers.
+ Article omission or unusual use: 'She is in hospital' is standard British, but IndE may omit or add
+articles in non-standard ways influenced by substrate languages (Hindi, Tamil, etc.) which lack articles.
+ Question formation: Direct question word order in indirect questions: 'I don't know where is he going.'
+Lexical Characteristics
+Indian English has a rich vocabulary of its own — words borrowed from Indian languages, semantic shifts,
+and new coinages:
+
+
+--- PAGE 20 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 20
+✦  EXAMPLES
+Loanwords from Indian languages: lakh, crore, pucca, dacoit, godown, hartal, bundh, gherao, tamasha, jugaad,
+dhobi, ghat, peon (in the Indian sense). Semantic shifts: 'prepone' (opposite of postpone — widely used in IndE, not
+standard elsewhere), 'pass out' (to graduate — in IndE; in BrE means to faint), 'cousin-brother/cousin-sister' (to
+distinguish from sibling), 'Eve-teasing' (sexual harassment), 'cent percent' (100%). Hybrid compounds: 'dicky' (car
+boot/trunk), 'stepney' (spare tyre — from Stepney Street, Cardiff).
+4.3 Characteristics of American English ★★ MEDIUM
+American English (AmE) diverged from British English (BrE) over the 17th–19th centuries as
+English-speaking colonists established communities in North America. The first permanent English
+settlement was Jamestown, Virginia (1607). By the time of American independence (1776), an American
+variety was already discernible.
+Noah Webster and the Standardisation of American English
+Noah Webster (1758–1843) is the key figure in American English standardisation. His American Spelling
+Book (1783, nicknamed the Blue-Backed Speller) sold over 100 million copies and standardised American
+spelling. His great American Dictionary of the English Language (1828) defined American English
+independently of British norms. Webster deliberately Americanised spellings for reasons of nationalism,
+logic, and simplicity:
+British spelling
+American spelling
+Webster's reasoning
+colour, honour, favour
+color, honor, favor
+Remove silent 'u' — not in pronunciation
+centre, theatre, fibre
+center, theater, fiber
+More phonetically logical order
+travelling, modelling
+traveling, modeling
+Single 'l' when stress not on final syllable
+analyse, realise
+analyze, realize
+Use 'z' which is the sound actually made
+cheque
+check
+Simplification
+programme
+program
+Closer to Greek original programma
+tyre
+tire
+Simplification
+plough
+plow
+Simplification
+Phonological Characteristics of American English
+ Rhotic accent: AmE is rhotic — speakers pronounce /r/ in all positions, including word-finally and
+before consonants (car, bird, further). Most BrE accents are non-rhotic (the /r/ is silent in these
+positions). This is one of the clearest phonological divides.
+ Flapping: In AmE, the /t/ between vowels is often pronounced as a flap (like a quick /d/): 'butter'
+sounds like 'budder', 'water' like 'wader', 'better' like 'bedder.'
+ Cot-caught merger: Many AmE speakers do not distinguish between the vowels in 'cot' and 'caught'
+— both are pronounced the same.
+
+
+--- PAGE 21 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 21
+ Pin-pen merger: In Southern American English, the vowels in 'pin' and 'pen' are not distinguished
+before nasal consonants.
+ Different vowel shifts: The Northern Cities Vowel Shift (Great Lakes region) and Southern Vowel Shift
+create distinctive regional accents within AmE.
+Vocabulary Differences: AmE vs BrE
+Concept
+American English
+British English
+Ground floor
+First floor
+Ground floor
+Apartment
+Apartment
+Flat
+Trash/garbage can
+Trash can
+Dustbin/rubbish bin
+Elevator
+Elevator
+Lift
+Freeway/highway
+Highway/freeway
+Motorway
+Gas (petrol)
+Gas
+Petrol
+Trunk (of car)
+Trunk
+Boot
+Hood (of car)
+Hood
+Bonnet
+Cookie
+Cookie
+Biscuit
+Movie theater
+Movie theater
+Cinema
+Vacation
+Vacation
+Holiday
+Diaper
+Diaper
+Nappy
+Fall (season)
+Fall
+Autumn
+Sneakers
+Sneakers
+Trainers
+Sidewalk
+Sidewalk
+Pavement
+Cell phone
+Cell phone
+Mobile phone
+Archaisms Preserved in American English
+Paradoxically, some features of AmE that seem 'different' are actually older English forms preserved by
+colonial settlers and abandoned later in Britain:
+✦  EXAMPLES
+Fall for 'autumn' (used in 17th-century BrE — settlers took it to America, Britain later dropped it). Gotten as past
+participle of get (standard in OE and Early Modern English — BrE now uses 'got' for both). Mad meaning 'angry'
+(original meaning — BrE shifted to 'insane'). Trash for rubbish. Faucet for tap. Sick meaning 'unwell' (BrE 'sick' more
+specifically means nauseous).
+
+
+--- PAGE 22 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 22
+Key Diagrams — Draw These from Memory
+All five diagrams below are potential Q2 answers
+★  EXAM TIP
+In a Q2 answer, your diagram should be clearly labelled, take up about 1/3 of your answer, and be directly
+explained in the accompanying prose. Always title your diagram.
+Diagram 1: Proto-Indo-European Family Tree
+Draw a vertical tree. At the top: PIE (c. 4000–3000 BCE, Pontic steppe). Below it, draw branches for:
+Indo-Iranian, Hellenic, Italic, Germanic, Celtic, Balto-Slavic, Anatolian, Tocharian, Albanian/Armenian.
+Under Germanic, subdivide into West (English, German, Dutch), North (Swedish, Danish, Norwegian),
+East (Gothic — extinct). Show English descending from West Germanic.
+Diagram 2: Influences on Old English (Spoke/Wheel Diagram)
+Draw a circle in the centre labelled 'Old English (450–1100 CE)'. Draw arrows pointing INTO the circle
+from: (1) Celtic — minimal, place/river names only; (2) Roman/Continental Latin — before 450 CE,
+material culture words; (3) Ecclesiastical Latin — 597 CE onward, religious vocabulary; (4) Old
+Norse/Scandinavian — 787 CE onward, Danelaw, core vocabulary and grammar. Inside the circle you can
+note: Anglo-Saxon base (Germanic core).
+Diagram 3: Standardisation Flow (Linear Process Diagram)
+Draw a left-to-right flow with five boxes connected by arrows: [Printing Press — Caxton 1476] → [Bible
+Translation — Tyndale 1526, KJB 1611] → [Spelling Reformation — Hart, Mulcaster, Bullokar] →
+[Dictionaries — Cawdrey 1604, Johnson 1755] → [Grammar Books — 18th c.] → [Standardised Modern
+English]. Add dates and key names in each box.
+Diagram 4: Kachru's Three Circles of English
+Draw three concentric circles (smallest innermost). INNER CIRCLE (label outside): UK, USA, Canada,
+Australia, New Zealand, Ireland — English as L1, norm-providing. OUTER CIRCLE (middle ring): India,
+Nigeria, Singapore, Pakistan, Kenya, Ghana, Philippines — English as L2, institutionalised. EXPANDING
+CIRCLE (outermost ring): China, Japan, Brazil, Russia, Germany, South Korea, Indonesia — English as
+EFL, norm-dependent.
+Diagram 5: Timeline of English
+Draw a horizontal timeline with five periods: [Pre-English Britain: Celtic + Latin | before 450 CE] — [Old
+English: 450–1100 CE | Germanic + Norse + Latin] — [Middle English: 1100–1500 CE | + Norman French]
+— [Early Modern English: 1500–1700 CE | Standardisation, Printing, Bible] — [Modern English:
+1700–present | Global spread, American/Indian English]. Mark key dates below the line: 43 CE (Roman),
+597 CE (Christian), 787 CE (Viking), 1066 (Norman), 1476 (Caxton), 1611 (KJB), 1755 (Johnson).
+
+
+--- PAGE 23 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 23
+Quick Revision — Dates, Names & Key Terms
+Memorise all entries in this section
+Critical Dates
+Date
+Event
+Significance for English
+c. 4000–3000 BCE
+Proto-Indo-European spoken
+Common ancestor of English, Hindi, French, Russian etc.
+800–400 BCE
+Celtic tribes in Britain
+Pre-Roman British population — left place/river names
+55–54 BCE
+Julius Caesar raids Britain
+First Roman contact; no permanent settlement
+43 CE
+Roman conquest (Claudius)
+Latin becomes language of administration; lasts 400 years
+410 CE
+Roman withdrawal
+Britain vulnerable; Anglo-Saxon settlement begins
+449 CE
+Anglo-Saxon migration begins
+Start of Old English period
+597 CE
+Augustine of Canterbury
+Christianity converts Anglo-Saxons; ecclesiastical Latin wave
+787 CE
+First Viking raids
+Start of Scandinavian influence
+871–899 CE
+King Alfred the Great
+Winchester vocabulary, OE literacy programme
+878 CE
+Treaty of Wedmore (Danelaw)
+Formal division of England; Old Norse contact intensifies
+1066 CE
+Norman Conquest (Battle of Hastings)
+French becomes language of the elite; Middle English begins
+1204 CE
+Loss of Normandy (King John)
+Anglo-Norman nobles identify with England; English rebounds
+1348–49 CE
+Black Death
+Destroys Latin-educated clergy; English speakers advance
+1362 CE
+Statute of Pleading
+Parliament and courts opened in English
+c. 1387
+Chaucer's Canterbury Tales
+London dialect gains literary prestige
+1476 CE
+Caxton's printing press
+Standardises English spelling; print culture begins
+1526 CE
+Tyndale's New Testament
+First printed English NT; vernacular Bible movement
+1611 CE
+King James Bible
+The most influential prose work in English history
+1755 CE
+Samuel Johnson's Dictionary
+First major comprehensive English dictionary
+1828 CE
+Webster's American Dictionary
+Codifies American English spelling; AmE-BrE divergence official
+1884–1928
+Oxford English Dictionary
+Definitive historical dictionary of English
+Key Terms Glossary
+Ablaut — Vowel alternation in strong verbs: sing/sang/sung. An inherited Indo-European feature.
+Anglo-Norman — The dialect of Old French spoken by the Norman conquerors of England after 1066.
+Danelaw — Region of northern/eastern England under Viking/Danish control after Treaty of Wedmore
+(878 CE).
+Diachronic — Studying language change across time (the approach of this entire course).
+
+
+--- PAGE 24 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 24
+Etymon — The original word from which a later word derives.
+Inkhorn terms — Overly learned Latin/Greek coinages of the Renaissance, many of which failed to
+survive.
+Kenning — A poetic compound in OE (e.g. 'whale-road' = sea; 'battle-light' = sword).
+Lingua franca — A language used for communication between people who do not share a native tongue.
+Rhoticity — Pronouncing /r/ in all positions. AmE is rhotic; most BrE is non-rhotic.
+Semantic split — The OE/OF division of meaning between animal name (OE) and meat (OF): cow/beef,
+pig/pork.
+Strong verbs — OE verbs that change root vowel for past tense (ablaut) — 'irregular' verbs in Modern
+English.
+Substrate — A language that influences another language spoken in the same area, often through
+speakers shifting languages (e.g., Indian language substrate in Indian English).
+Syllable-timed — Rhythm where each syllable takes roughly equal time (IndE). Contrast stress-timed
+(BrE, AmE).
+Three Circles — Kachru's model: Inner (L1), Outer (L2/institutionalised), Expanding (EFL) circles of
+English.
+Vernacular — The native or common language of a region or community (as opposed to Latin in medieval
+Europe).
+West Saxon — The OE dialect of Wessex, which became the prestige written standard (Winchester
+vocabulary).
+World Englishes — The study of the many varieties of English spoken globally, each with its own
+legitimate norms.
+
+
+--- PAGE 25 ---
+ENGL322 – History of English Language  |  Amity University Kolkata
+Page 25
+Exam Preparation Summary
+Your final checklist before the exam
+Predicted Question Paper Combinations
+Q1 (5 marks — 50 words)
+Q2 (10 marks — 300 words + diagram)
+Celtic influence on English (ALREADY ASKED)
+PIE family tree + subdivisions (ALREADY ASKED)
+Inkhorn Terms — define + examples
+Kachru's Three Circles — draw + discuss
+Scandinavian/Norse influence on OE
+Characteristics of Old English (diagram)
+French influence on Middle English (brief)
+Standardisation of English (process diagram)
+Samuel Johnson's dictionary
+French influence on ME — semantic split + domains
+Characteristics of Indian English
+American vs British English — comparison
+Bible translations — Tyndale / KJB
+Timeline of English from OE to present
+Printing press and Caxton
+Foreign influences on Modern English
+Recommended Reading from Your Syllabus
+ PRIMARY TEXT: Baugh, Albert C. A History of the English Language, 5th edition. London:
+Routledge, 2002. — READ THIS FIRST. It covers all four modules directly.
+ Crystal, David. Cambridge Encyclopaedia of the English Language, 2nd Edition. Cambridge
+University Press, 2003. — Excellent on standardisation, spelling, and global English.
+ Crystal, David. English as a Global Language, 2nd edition. Cambridge: CUP, 2012. — Essential for
+Module IV (world language, three circles).
+ Viney, Brigit. History of the English Language. OUP, 2004. — Accessible overview for all modules.
+ Wood, F T. An Outline History of the English Language. Macmillan, 2000. — Concise and
+exam-focused.
+ Good luck with your examination! — ENGL322 Study Guide, Amity University Kolkata, Semester VI
+ 
+
