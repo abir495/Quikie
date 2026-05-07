@@ -3,17 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>History of English Language - Full Study Guide</title>
+    <title>QUIKIE — History of the English Language | Premium Study Guide</title>
+    <meta name="description" content="A stunning, immersive study guide covering the evolution of the English language from Proto-Indo-European to World Englishes. ENGL322 Semester VI.">
     <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="landing.css">
 </head>
 <body data-page="home">
 
-    <!-- HERO SECTION -->
-    <header class="hero">
+    <!-- ═══ WEBGL CANVAS BACKGROUND ═══ -->
+    <canvas id="galaxy-canvas"></canvas>
+
+    <!-- ═══ FLOATING PARTICLES ═══ -->
+    <div id="particles-container"></div>
+
+    <!-- ═══ HERO SECTION ═══ -->
+    <header class="hero" id="hero-section">
         <!-- NAVIGATION -->
-        <nav class="nav">
+        <nav class="nav" id="main-nav">
             <div class="nav-inner">
                 <div class="nav-brand">
+                    <span class="brand-icon">◈</span>
                     <span class="brand-text">QUIKIE</span>
                     <span class="brand-sub">by Ankit</span>
                 </div>
@@ -30,70 +39,259 @@
             </div>
         </nav>
 
-        <div class="hero-badge">ENGL322 Semester VI</div>
-        <h1>History of the<br>English Language</h1>
-        <p class="hero-sub">A comprehensive study guide covering the evolution from Proto-Indo-European to World Englishes. Contains all detailed notes, diagrams, and exam prep.</p>
-        
-        <div class="hero-pills">
-            <a href="module1.html" class="hero-pill p1">Module I: In the Beginning</a>
-            <a href="module2.html" class="hero-pill p2">Module II: 450–1500 CE</a>
-            <a href="module3.html" class="hero-pill p3">Module III: 1500–Present</a>
-            <a href="module4.html" class="hero-pill p4">Module IV: World Language</a>
-        </div>
-        
-        <div class="orb orb1"></div>
-        <div class="orb orb2"></div>
-    </header>
-
-
-    <!-- CONTENT CONTAINER -->
-    <main class="container">
-        <section class="sec fade-in-up visible">
-            <div class="home-intro">
-                <h2 class="home-title">Welcome to the Study Guide</h2>
-                <p class="home-sub">Select a resource below or dive into a module from the navigation bar.</p>
+        <!-- HERO CONTENT -->
+        <div class="hero-content">
+            <div class="hero-glow"></div>
+            
+            <div class="hero-badge" id="hero-badge">
+                <span class="badge-dot"></span>
+                ENGL322 · Semester VI · Amity University
             </div>
             
-            <div class="home-grid">
-                <a href="diagrams.html" class="home-card card-diag">
-                    <div class="hc-icon-wrap"><div class="hc-icon">📊</div></div>
-                    <div class="hc-content">
-                        <h3>Key Diagrams</h3>
-                        <p>Interactive visual models required for Q2</p>
-                    </div>
-                    <div class="hc-arrow">→</div>
+            <h1 id="hero-title">
+                <span class="title-line line-1">History of the</span>
+                <span class="title-line line-2">English Language</span>
+            </h1>
+            
+            <p class="hero-sub" id="hero-sub">
+                An immersive, beautifully crafted study experience covering the evolution from Proto-Indo-European to World Englishes — with interactive notes, diagrams, and exam prep.
+            </p>
+
+            <div class="hero-cta-group">
+                <a href="module1.html" class="hero-cta-primary" id="cta-start">
+                    <span class="cta-text">Start Learning</span>
+                    <span class="cta-arrow">→</span>
+                    <div class="cta-shimmer"></div>
                 </a>
-                
-                <a href="qanda.html" class="home-card card-qa">
-                    <div class="hc-icon-wrap"><div class="hc-icon">🎯</div></div>
-                    <div class="hc-content">
-                        <h3>Important Q & A</h3>
-                        <p>Predicted exam questions and model answers</p>
-                    </div>
-                    <div class="hc-arrow">→</div>
+                <a href="revision.html" class="hero-cta-secondary" id="cta-revision">
+                    <span>Quick Revision</span>
                 </a>
-                
-                <a href="revision.html" class="home-card card-rev">
-                    <div class="hc-icon-wrap"><div class="hc-icon">⏳</div></div>
-                    <div class="hc-content">
-                        <h3>Quick Revision</h3>
-                        <p>Chronological timeline and key terms glossary</p>
+            </div>
+
+            <!-- 3D FLOATING TIMELINE CHIPS -->
+            <div class="hero-timeline" id="hero-timeline">
+                <div class="timeline-chip chip-1" data-depth="0.3">
+                    <span class="chip-year">450 CE</span>
+                    <span class="chip-label">Old English</span>
+                </div>
+                <div class="timeline-chip chip-2" data-depth="0.5">
+                    <span class="chip-year">1066</span>
+                    <span class="chip-label">Norman Conquest</span>
+                </div>
+                <div class="timeline-chip chip-3" data-depth="0.2">
+                    <span class="chip-year">1476</span>
+                    <span class="chip-label">Printing Press</span>
+                </div>
+                <div class="timeline-chip chip-4" data-depth="0.6">
+                    <span class="chip-year">1755</span>
+                    <span class="chip-label">Johnson's Dict.</span>
+                </div>
+                <div class="timeline-chip chip-5" data-depth="0.4">
+                    <span class="chip-year">Today</span>
+                    <span class="chip-label">World English</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- SCROLL INDICATOR -->
+        <div class="scroll-indicator" id="scroll-indicator">
+            <div class="scroll-mouse">
+                <div class="scroll-wheel"></div>
+            </div>
+            <span>Scroll to explore</span>
+        </div>
+    </header>
+
+    <!-- ═══ MODULES SECTION ═══ -->
+    <main class="container">
+        <section class="sec modules-section" id="modules-section">
+            <div class="section-header fade-in-up">
+                <div class="section-badge">Modules</div>
+                <h2 class="section-title">Your Study Roadmap</h2>
+                <p class="section-sub">Four immersive modules taking you through 5,000 years of linguistic evolution</p>
+            </div>
+
+            <div class="modules-grid" id="modules-grid">
+                <!-- Module 1 -->
+                <a href="module1.html" class="module-card card-m1 fade-in-up" id="card-m1">
+                    <div class="card-3d-wrapper">
+                        <div class="card-glow card-glow-1"></div>
+                        <div class="card-number">01</div>
+                        <div class="card-icon">
+                            <svg viewBox="0 0 60 60" class="card-icon-svg">
+                                <circle cx="30" cy="30" r="28" stroke="currentColor" stroke-width="1.5" fill="none" opacity="0.3"/>
+                                <path d="M30 10 L30 50 M10 30 L50 30 M17 17 L43 43 M43 17 L17 43" stroke="currentColor" stroke-width="1" opacity="0.2"/>
+                                <circle cx="30" cy="30" r="8" fill="currentColor" opacity="0.15"/>
+                                <text x="30" y="35" text-anchor="middle" fill="currentColor" font-size="16" font-weight="bold">🌍</text>
+                            </svg>
+                        </div>
+                        <div class="card-content">
+                            <h3>In the Beginning</h3>
+                            <p>Proto-Indo-European origins, the PIE family tree, Celtic Britain, and Roman influence</p>
+                        </div>
+                        <div class="card-footer">
+                            <span class="card-period">4000 BCE – 450 CE</span>
+                            <span class="card-arrow">→</span>
+                        </div>
+                        <div class="card-border-glow"></div>
                     </div>
-                    <div class="hc-arrow">→</div>
                 </a>
+
+                <!-- Module 2 -->
+                <a href="module2.html" class="module-card card-m2 fade-in-up" id="card-m2">
+                    <div class="card-3d-wrapper">
+                        <div class="card-glow card-glow-2"></div>
+                        <div class="card-number">02</div>
+                        <div class="card-icon">
+                            <svg viewBox="0 0 60 60" class="card-icon-svg">
+                                <circle cx="30" cy="30" r="28" stroke="currentColor" stroke-width="1.5" fill="none" opacity="0.3"/>
+                                <text x="30" y="35" text-anchor="middle" fill="currentColor" font-size="16" font-weight="bold">⚔️</text>
+                            </svg>
+                        </div>
+                        <div class="card-content">
+                            <h3>English in the British Isles</h3>
+                            <p>Anglo-Saxon, Viking invasions, Norman Conquest, and the birth of Middle English</p>
+                        </div>
+                        <div class="card-footer">
+                            <span class="card-period">450 – 1500 CE</span>
+                            <span class="card-arrow">→</span>
+                        </div>
+                        <div class="card-border-glow"></div>
+                    </div>
+                </a>
+
+                <!-- Module 3 -->
+                <a href="module3.html" class="module-card card-m3 fade-in-up" id="card-m3">
+                    <div class="card-3d-wrapper">
+                        <div class="card-glow card-glow-3"></div>
+                        <div class="card-number">03</div>
+                        <div class="card-icon">
+                            <svg viewBox="0 0 60 60" class="card-icon-svg">
+                                <circle cx="30" cy="30" r="28" stroke="currentColor" stroke-width="1.5" fill="none" opacity="0.3"/>
+                                <text x="30" y="35" text-anchor="middle" fill="currentColor" font-size="16" font-weight="bold">📜</text>
+                            </svg>
+                        </div>
+                        <div class="card-content">
+                            <h3>English: 1500 to Present</h3>
+                            <p>Renaissance, Inkhorn terms, Shakespeare, Great Vowel Shift, and standardization</p>
+                        </div>
+                        <div class="card-footer">
+                            <span class="card-period">1500 CE – Present</span>
+                            <span class="card-arrow">→</span>
+                        </div>
+                        <div class="card-border-glow"></div>
+                    </div>
+                </a>
+
+                <!-- Module 4 -->
+                <a href="module4.html" class="module-card card-m4 fade-in-up" id="card-m4">
+                    <div class="card-3d-wrapper">
+                        <div class="card-glow card-glow-4"></div>
+                        <div class="card-number">04</div>
+                        <div class="card-icon">
+                            <svg viewBox="0 0 60 60" class="card-icon-svg">
+                                <circle cx="30" cy="30" r="28" stroke="currentColor" stroke-width="1.5" fill="none" opacity="0.3"/>
+                                <text x="30" y="35" text-anchor="middle" fill="currentColor" font-size="16" font-weight="bold">🌐</text>
+                            </svg>
+                        </div>
+                        <div class="card-content">
+                            <h3>From Island to World</h3>
+                            <p>Colonialism, Kachru's circles, World Englishes, Indian English, and global future</p>
+                        </div>
+                        <div class="card-footer">
+                            <span class="card-period">World Language</span>
+                            <span class="card-arrow">→</span>
+                        </div>
+                        <div class="card-border-glow"></div>
+                    </div>
+                </a>
+            </div>
+        </section>
+
+        <!-- ═══ TOOLS SECTION ═══ -->
+        <section class="sec tools-section fade-in-up" id="tools-section">
+            <div class="section-header">
+                <div class="section-badge">Tools</div>
+                <h2 class="section-title">Study Resources</h2>
+                <p class="section-sub">Everything you need to ace the exam, in one place</p>
+            </div>
+
+            <div class="tools-grid">
+                <a href="diagrams.html" class="tool-card tool-diag fade-in-up" id="tool-diagrams">
+                    <div class="tool-icon-orb">
+                        <div class="tool-icon">📊</div>
+                        <div class="tool-ring"></div>
+                    </div>
+                    <h3>Key Diagrams</h3>
+                    <p>Interactive visual models required for Q2 answers</p>
+                    <div class="tool-shine"></div>
+                </a>
+
+                <a href="qanda.html" class="tool-card tool-qa fade-in-up" id="tool-qanda">
+                    <div class="tool-icon-orb">
+                        <div class="tool-icon">🎯</div>
+                        <div class="tool-ring"></div>
+                    </div>
+                    <h3>Q & A Bank</h3>
+                    <p>Predicted exam questions with model answers</p>
+                    <div class="tool-shine"></div>
+                </a>
+
+                <a href="revision.html" class="tool-card tool-rev fade-in-up" id="tool-revision">
+                    <div class="tool-icon-orb">
+                        <div class="tool-icon">⏳</div>
+                        <div class="tool-ring"></div>
+                    </div>
+                    <h3>Quick Revision</h3>
+                    <p>Chronological timeline and key terms glossary</p>
+                    <div class="tool-shine"></div>
+                </a>
+            </div>
+        </section>
+
+        <!-- ═══ STATS SECTION ═══ -->
+        <section class="sec stats-section fade-in-up" id="stats-section">
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <span class="stat-number" data-count="4">0</span>
+                    <span class="stat-label">Modules</span>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-item">
+                    <span class="stat-number" data-count="5000">0</span>
+                    <span class="stat-suffix">+</span>
+                    <span class="stat-label">Years of History</span>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-item">
+                    <span class="stat-number" data-count="50">0</span>
+                    <span class="stat-suffix">+</span>
+                    <span class="stat-label">Practice Questions</span>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-item">
+                    <span class="stat-number" data-count="15">0</span>
+                    <span class="stat-label">Key Diagrams</span>
+                </div>
             </div>
         </section>
     </main>
 
-    <footer>
-        <div style="margin-bottom: 0.5rem;">
-            <span class="brand-text" style="font-size: 1.5rem;">QUIKIE</span>
-            <span class="brand-sub">by Ankit</span>
+    <!-- ═══ FOOTER ═══ -->
+    <footer id="main-footer">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <span class="brand-icon">◈</span>
+                <span class="brand-text" style="font-size: 1.5rem;">QUIKIE</span>
+                <span class="brand-sub">by Ankit</span>
+            </div>
+            <p>Created from ENGL322 Study Guide notes • Amity University Kolkata</p>
+            <div class="footer-glow"></div>
         </div>
-        <p>Created from ENGL322 Study Guide notes • Amity University Kolkata</p>
     </footer>
 
     <script src="data.js"></script>
     <script src="script.js"></script>
+    <script src="landing3d.js"></script>
 </body>
 </html>
