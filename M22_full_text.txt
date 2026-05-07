@@ -1,0 +1,270 @@
+Total pages: 6
+--- PAGE 1 ---
+ENGL322 — History of the English Language
+MODULE II STUDY GUIDE · BA English (H/R) · UG Semester VI · Amity University Kolkata
+Exam: 1 hr · 15 marks · Q1 (5 marks, ~50 words) · Q2 (10 marks, ~300 words + diagram)
+MODULE II: ENGLISH IN THE BRITISH ISLES 450–1500 CE (Weightage:
+ 25%)
+ This period is the most linguistically turbulent in English history. It saw three distinct waves of external
+influence — Scandinavian, then Norman French — layered onto the original Anglo-Saxon base, while
+Latin continued as the language of the Church throughout. By 1500 CE, English had transformed almost
+beyond recognition from the Old English of 450 CE.
+2.2 Foreign Influences on Old English ★★★ HIGH
+★ EXAM TIP: Examiner favourite for both Q1 and Q2. Know all three waves: Celtic (minimal), Latin (two
+waves: Roman + Christian), and Scandinavian (Viking Age). Give word examples for each.
+Wave 1 — Celtic Influence on Old English
+As covered in Module I, Celtic influence on Old English was minimal. The Anglo-Saxon invaders displaced
+Celtic speakers rather than absorbing them. Place names and a handful of common words (brock, crag,
+loch) are the main legacy. Celtic influence on Old English grammar was effectively zero.
+Wave 2 — Latin Influence (Two Sub-Waves)
+Latin influenced Old English in two distinct historical moments. It is important to distinguish them:
+(a) Continental Latin / Roman Period Borrowings
+These entered before the Anglo-Saxons reached Britain. Words for material culture absorbed through
+trade and contact with Rome on the European continent.
+✦ EXAMPLES:
+wine (vinum), cheese (caseus), street (strata via = paved road), wall (vallum), cup (cupa), dish (discus),
+mile (mille passus), pound (pondus), kitchen (coquina), butter (butyrum).
+(b) Christian / Ecclesiastical Latin (6th–10th centuries)
+In 597 CE, Pope Gregory the Great sent St Augustine of Canterbury to convert the Anglo-Saxons to
+Christianity. With Christianity came an enormous wave of Latin vocabulary — the language of the Church,
+learning, and manuscripts. This is called the second wave of Latin into English.
+✦ EXAMPLES — Ecclesiastical Latin borrowings:
+angel, candle, hymn, mass, monk, nun, priest, school, disciple, epistle, paradise, temple, font, altar,
+psalm, minister, pope, creed, martyr, deacon, apostle, pilgrim. Also educational terms: grammar,
+meter, verse. Note: some of these entered through Greek then were Latinised — church (Greek kyriakon),
+bishop (Greek episkopos), devil (Greek diabolos).
+Wave 3 — Scandinavian / Old Norse Influence (Viking Age) ★★★ HIGH
+The Viking invasions began in 787 CE (first recorded raid on Lindisfarne, 793 CE) and continued for nearly
+three centuries. Danish and Norwegian Vikings first raided, then settled large parts of northern and eastern
+England — the area called the Danelaw, formally established by the Treaty of Wedmore (878 CE)
+between King Alfred the Great and the Danish leader Guthrum.
+
+
+--- PAGE 2 ---
+The Danelaw covered roughly the area north and east of a line from London to Chester. Within this
+territory, Old Norse and Old English coexisted and mixed intimately. The two languages were mutually
+intelligible enough that significant borrowing in both directions occurred.
+What Old Norse Gave English
+The Scandinavian contribution is remarkable because it affected not just vocabulary but core grammar —
+pronouns, prepositions, and common everyday words. This is unusual because grammatical elements are
+almost never borrowed between languages unless contact is extremely deep and prolonged.
+✦ EXAMPLES — Old Norse borrowings:
+Pronouns: they, them, their (replaced OE hie, him, hiera).
+Everyday words: sky, egg, cake, take, call, want, get, give, birth, husband, sister, window, wrong, ugly,
+happy, loose, low, flat, ill, weak.
+Verbs: die, ride, crawl, gasp, glitter, scare.
+Place names: endings in -by (Grimsby, Derby, Whitby), -thorp (Scunthorpe), -toft (Lowestoft), -ness
+(Skegness).
+■ KEY NOTE
+The replacement of the Old English 3rd-person plural pronouns (hie/him/hiera) with Norse they/them/their
+is hugely significant — even the most basic function words were exchanged. This shows how deeply
+integrated Scandinavian settlers were in daily Anglo-Saxon life.
+2.3 Characteristics of Old English ★★★ HIGH
+★ EXAM TIP: Very likely to appear as Q2 (diagram + long answer). Draw a mind-map with five branches:
+Compound Words, Strong Verbs, Word Order, Winchester Vocabulary, Stress Pattern.
+Old English (OE), also called Anglo-Saxon, was spoken from approximately 450 CE to 1100 CE. It
+descended from the West Germanic dialects of the Angles, Saxons, Jutes, and Frisians who migrated to
+Britain from the 5th century onward. OE looks almost like a foreign language to modern eyes — it has
+elaborate grammatical inflections, different vocabulary, and different word order. The most famous OE text
+is the epic poem Beowulf (composed 8th–10th centuries). Other major texts include the Anglo-Saxon
+Chronicle and King Alfred's translations of Latin works.
+(a) Compound Words
+Old English was highly productive in creating compound words by joining two existing words to form a new
+concept. OE poetry especially favoured kennings — poetic compounds used as metaphorical descriptors.
+✦ EXAMPLES:
+Compounds: godspell (god + spell = good news → Gospel), woruldcyning (world-king), tungolcraeft
+(star-craft = astronomy), heofenweard (heaven-guardian = God).
+Kennings in Beowulf: hronrad (whale-road = sea), beadoleoma (battle-light = sword), goldwine
+(gold-friend = generous lord).
+(b) Strong Verbs (Ablaut)
+OE inherited from Germanic a system of strong verbs that changed their vowel in the past tense rather
+than adding an -ed ending. This is called ablaut or vowel gradation. There were seven classes of strong
+verbs in OE, each with a distinct ablaut pattern. Many modern English 'irregular verbs' are survivals of this
+system.
+✦ EXAMPLES — Strong verbs surviving into Modern English:
+
+
+--- PAGE 3 ---
+sing/sang/sung · ring/rang/rung · drive/drove/driven · write/wrote/written · speak/spoke/spoken ·
+ride/rode/ridden · rise/rose/risen · break/broke/broken · freeze/froze/frozen · bind/bound/bound.
+■ KEY NOTE
+What grammarians call 'irregular' verbs are in fact following very regular ablaut patterns from Old English.
+These are not random exceptions — they are the oldest, most systematic verb class in the language.
+(c) Word Order
+Modern English uses a fixed Subject-Verb-Object (SVO) order to convey grammatical relationships. Old
+English could vary its word order much more freely because it used inflectional endings (case endings)
+to show grammatical function — not position. OE had four cases: Nominative, Accusative, Genitive, and
+Dative, plus traces of an Instrumental case. In OE poetry and formal prose, verb-final (SOV) order was
+common, reflecting Germanic heritage.
+As inflectional endings eroded (especially under Norse contact, which accelerated this process), English
+had to compensate by fixing word order. The shift from free order → SVO is one of the most fundamental
+changes in the history of English grammar.
+(d) Winchester Vocabulary
+Winchester was the capital of the West Saxon kingdom and became the major centre of learning and
+manuscript production in Anglo-Saxon England, especially under King Alfred the Great (r. 871–899 CE).
+Alfred's ambitious programme of translating Latin works into English established a prestige variety of Old
+English — Late West Saxon — centred on Winchester.
+This variety became the written standard for OE, meaning that the OE texts we can read today primarily
+reflect the Winchester (West Saxon) dialect, not the Anglian or Kentish dialects.
+■ KEY NOTE
+Winchester Vocabulary = the standardised literary vocabulary of Late West Saxon OE, associated with
+King Alfred's court. It is not a separate dialect but a prestige written form. The Norman Conquest of 1066
+destroyed Winchester's prestige, and the written standard had to be rebuilt — eventually in London English.
+(e) Stress Patterns
+In Old English, stress was placed on the root syllable — almost always the first syllable of a native word.
+This is the Germanic stress pattern inherited from PIE. Prefixes in OE could be stressed (when modifying
+nouns: andswaru = answer) or unstressed (when modifying verbs: andswarian = to answer).
+This distinction between noun-stress and verb-stress survives in some Modern English pairs: PROtest
+(noun) vs proTEST (verb); REcord vs reCORD; PERmit vs perMIT.
+2.4 Middle English (1066–1500) and the French Influence ★★★ HIGH
+★ EXAM TIP: French influence after 1066 is a near-certain Q2 topic. Cover: Norman Conquest context,
+domains of French vocabulary (law, food, fashion, government), social stratification (French = elite, English
+= common), and the eventual re-emergence of English.
+The Norman Conquest (1066 CE)
+On 14 October 1066, William the Conqueror (Duke of Normandy, France) defeated and killed King Harold
+II at the Battle of Hastings. This single event had more impact on the English language than any other in
+its history. The Norman invaders spoke a dialect of Old French (Anglo-Norman French), and they became
+the new ruling class of England. For the next 300 years, England was effectively trilingual:
+
+
+--- PAGE 4 ---
+Language
+Used by whom
+Domains
+Anglo-Norman French
+Royalty, nobles, Church hierarchy, courts
+Government, law, literature, religion
+Latin
+The Church, scholars, official documents
+Religion, scholarship, international correspondence
+Middle English
+The common people, peasants, tradesmen
+Everyday speech, agriculture, trade
+The Semantic Split — Animal vs Meat
+The most striking evidence of Norman French influence is the famous semantic split between
+Anglo-Saxon words for animals and Norman French words for their meat. The Anglo-Saxon peasants who
+tended the animals used OE words; the Norman nobles who ate the cooked meat used French words.
+This split has survived to the present day:
+Animal (OE/AS word)
+Meat at table (OF word)
+ox / cow (OE: oxa/cu)
+beef (OF: boeuf)
+sheep (OE: sceap)
+mutton (OF: mouton)
+swine / pig (OE: swin)
+pork (OF: porc)
+calf (OE: cealf)
+veal (OF: veel)
+deer (OE: deor)
+venison (OF: venaison)
+chicken/hen (OE: henn)
+poultry (OF: poulet)
+Domains of French Borrowing
+Domain
+Examples
+Government & Administration
+government, parliament, council, crown, court, state, mayor, chancellor, minister, sovereign, nation, empire, reign, noble, baron, duke, countess
+Law
+judge, jury, justice, crime, prison, defendant, plaintiff, verdict, attorney, pardon, felony, indict, legal, evidence, bail, accuse
+Military
+army, navy, battle, war, soldier, sergeant, captain, lieutenant, garrison, castle, siege, enemy, peace, lance, assault
+Religion
+saint, prayer, charity, mercy, miracle, abbey, chancel, sermon, piety, grace, devout, faith, divine
+Food & Cooking
+cuisine, sauce, boil, fry, roast, feast, supper, dinner, appetite, beef, pork, mutton, veal, venison, pastry, biscuit, cream, sugar, salad
+Fashion & Luxury
+fashion, garment, gown, robe, jewel, diamond, fur, lace, embroidery, perfume, beauty, colour
+Art & Culture
+art, music, dance, poem, romance, literature, culture, image, beauty, leisure, pleasure
+French Influence on Pronunciation and Structure
+ Pronunciation: French introduced sounds new to English — the [v] sound at the start of words (veal,
+vain, very — OE had no initial /v/), the [dj] sound (judge, gentle, giant from OF), and stress on the final
+syllable in many borrowed words (hotel, café, machine).
+ Spelling: French scribes introduced <qu> for /kw/ (queen, instead of OE cwen), <ch> for /tsh/
+(church had been spelled cirice), and <ou> combinations.
+ Suffixes: Many French suffixes became productive in English: -tion (nation, action), -ment
+(government, movement), -ance/-ence (distance, evidence), -ity (dignity, nobility), -ous (famous,
+curious), -al (royal, legal).
+ Word order: French helped consolidate Subject-Verb-Object order by reinforcing the erosion of OE
+case endings.
+The Re-emergence of English
+By the mid-13th century, English began its comeback. Several events accelerated this:
+
+
+--- PAGE 5 ---
+Date
+Event & Significance
+1204 CE
+King John lost Normandy to the French king. Anglo-Norman nobles could no longer maintain estates in both England and France and had to choose — most chose England, gradually shifting to English.
+1348–49 CE
+The Black Death killed nearly a third of England's population, disproportionately affecting the Latin-educated clergy and French-speaking elite. English speakers filled administrative positions, raising the language's social status.
+1362 CE
+The Statute of Pleading decreed that court proceedings be conducted in English (not French). Parliament was also opened in English for the first time.
+c. 1387 CE
+Geoffrey Chaucer wrote The Canterbury Tales in the London dialect of Middle English — this literary prestige accelerated English's re-establishment as a written standard.
+KEY DIAGRAMS FOR MODULE II — Draw from Memory
+Diagram 2: Influences on Old English (Spoke/Wheel Diagram) — Draw a circle in the centre labelled
+'Old English (450–1100 CE)'. Draw arrows pointing INTO the circle from four directions:
+(1) Celtic — minimal, place/river names only
+(2) Roman/Continental Latin — before 450 CE, material culture words (wine, street, wall)
+(3) Ecclesiastical Latin — 597 CE onward, religious vocabulary (angel, monk, priest)
+(4) Old Norse/Scandinavian — 787 CE onward, Danelaw, core vocabulary and grammar (they/them/their,
+sky, egg)
+Inside the circle note: Anglo-Saxon base (Germanic core).
+Module II — Critical Dates & Key Terms
+Date
+Event
+Significance
+449 CE
+Anglo-Saxon migration begins
+Start of Old English period; West Germanic dialects become English
+597 CE
+Augustine of Canterbury
+Christianity converts Anglo-Saxons; 2nd wave of Latin (ecclesiastical)
+787 CE
+First Viking raids
+Start of Scandinavian influence on English
+871–899 CE
+King Alfred the Great
+Winchester vocabulary; OE literacy programme; Treaty of Wedmore
+878 CE
+Treaty of Wedmore (Danelaw)
+Formal division of England; Old Norse contact intensifies
+1066 CE
+Norman Conquest (Battle of Hastings)
+French becomes language of the elite; Middle English period begins
+1204 CE
+Loss of Normandy (King John)
+Anglo-Norman nobles identify with England; English rebounds
+1348–49 CE
+Black Death
+Destroys Latin-educated clergy; English speakers advance socially
+1362 CE
+Statute of Pleading
+Parliament and courts opened in English for the first time
+c. 1387 CE
+Chaucer's Canterbury Tales
+London dialect gains literary prestige; ME written standard develops
+Key Terms — Module II Glossary
+Ablaut: Vowel alternation in strong verbs (sing/sang/sung). An inherited Indo-European feature; the
+basis of OE 'strong verbs'.
+Anglo-Norman: The dialect of Old French spoken by the Norman conquerors of England after 1066.
+The elite language of Middle English England.
+Danelaw: Region of northern/eastern England under Viking/Danish control after the Treaty of
+Wedmore (878 CE). Zone of intense OE–Norse contact.
+Kenning: A poetic compound in OE used as a metaphorical descriptor (e.g. 'whale-road' = sea;
+'battle-light' = sword).
+Semantic Split: The OE/OF division of meaning between animal name (OE) and its meat (OF):
+cow/beef, pig/pork, sheep/mutton.
+Strong Verbs: OE verbs that change root vowel for past tense (ablaut) — what we call 'irregular' verbs
+in Modern English.
+
+
+--- PAGE 6 ---
+West Saxon: The OE dialect of Wessex, which became the prestige written standard (Winchester
+vocabulary) under King Alfred.
+Winchester Vocabulary: The standardised literary vocabulary of Late West Saxon OE, associated
+with King Alfred's court. Not a separate dialect — a prestige written form.
+ ENGL322 Module II Study Guide · Amity University Kolkata · Semester VI
+ 
+
