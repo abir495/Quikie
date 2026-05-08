@@ -316,28 +316,7 @@ footer{
 .scale-in{opacity:0;transform:scale(0.9);transition:opacity 0.8s var(--ease-out),transform 0.8s var(--ease-out)}
 .scale-in.visible{opacity:1;transform:scale(1)}
 
-/* ══════════ CURSOR ══════════ */
-@media(hover:hover){
-  body{cursor:none}
-  a,button,input,.nav-link,.topic-head,.qa-card{cursor:none}
-}
-.cursor-dot{
-  position:fixed;top:0;left:0;width:6px;height:6px;
-  background:var(--v1);border-radius:50%;pointer-events:none;z-index:9999;
-  transform:translate(-50%,-50%);
-  transition:width 0.25s,height 0.25s,background 0.25s;
-  mix-blend-mode:screen;
-}
-.cursor-ring{
-  position:fixed;top:0;left:0;width:44px;height:44px;
-  border:1.5px solid rgba(124,109,250,0.35);border-radius:50%;
-  pointer-events:none;z-index:9998;
-  transform:translate(-50%,-50%);
-  transition:width 0.35s var(--ease-spring),height 0.35s var(--ease-spring),border-color 0.35s,background 0.35s;
-  box-shadow:0 0 20px rgba(124,109,250,0.08);
-}
-.cursor-hover .cursor-dot{width:0;height:0}
-.cursor-hover .cursor-ring{width:64px;height:64px;background:rgba(124,109,250,0.06);border-color:rgba(124,109,250,0.5);backdrop-filter:blur(2px)}
+
 
 /* ══════════ RESPONSIVE ══════════ */
 @media(max-width:640px){

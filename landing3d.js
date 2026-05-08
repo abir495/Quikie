@@ -169,25 +169,7 @@
     },{passive:true});
   }
 
-  // ══════════ 6. CUSTOM CURSOR (ALL PAGES) ══════════
-  if (window.matchMedia('(hover:hover)').matches) {
-    const dot = document.createElement('div'); dot.className='cursor-dot';
-    const ring = document.createElement('div'); ring.className='cursor-ring';
-    document.body.appendChild(dot); document.body.appendChild(ring);
 
-    let cx=0,cy=0,rx=0,ry=0;
-    window.addEventListener('mousemove',e=>{cx=e.clientX;cy=e.clientY;dot.style.left=cx+'px';dot.style.top=cy+'px';});
-    (function loop(){rx+=(cx-rx)*0.12;ry+=(cy-ry)*0.12;ring.style.left=rx+'px';ring.style.top=ry+'px';requestAnimationFrame(loop);})();
-
-    document.addEventListener('mouseover',e=>{
-      if(e.target.closest('a,button,.nav-link,.topic-head,.qa-card,.module-card,.tool-card,.pill,.timeline-chip,.glass-avatar,.glass-btn,.hero-cta-primary,.hero-cta-secondary'))
-        document.body.classList.add('cursor-hover');
-    });
-    document.addEventListener('mouseout',e=>{
-      if(e.target.closest('a,button,.nav-link,.topic-head,.qa-card,.module-card,.tool-card,.pill,.timeline-chip,.glass-avatar,.glass-btn,.hero-cta-primary,.hero-cta-secondary'))
-        document.body.classList.remove('cursor-hover');
-    });
-  }
 
   // ══════════ 7. SMOOTH PAGE TRANSITION ══════════
   document.querySelectorAll('a[href]').forEach(a => {
